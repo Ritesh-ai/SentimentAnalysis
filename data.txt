@@ -1,0 +1,6327 @@
+thanks very much	pos
+good customer care service	pos
+as a customer the products	neg
+professional service	pos
+professional matter	pos
+make one stop shop	neg
+much paperwork	neg
+expertise sound	pos
+move to sign	pos
+no one picks up the phone	neg
+open account faulu bank regret	neg
+understand issue concern policy	pos
+price quite fair	pos
+efficient happy customer	pos
+it meant a lot	pos
+battery is lasting for a very short period	neg
+keep sound job god bless u happy holiday	pos
+sound service sale staff glad well	pos
+promise luxurious return save lose almost save terminate plan maturity much disappoint	neg
+sound product love free capuccino	pos
+hot cup prefer beverage wait great experience	pos
+add humanity value service	pos
+vehicle make luxurious return	pos
+every business satisfy client worth retain	pos
+customer agent get tv complete contract make happy	pos
+discount place day purchase tyre need car service	neg
+friendly staff with quality service	pos
+job poor fix cause accident road even arrest police	neg
+would recommend many people come car check	pos
+ungodly our customer care service excellent	pos
+premium much appreciate	pos
+send via message since comfortable conversant read	pos
+delay that occur before receiving code to be revised	neg
+difficult to know the direction for service required	neg
+you should also cater for older vehicles	neg
+service provider needs a big improvements	neg
+poor entertainment	neg
+this was really convenient	pos
+customer to wait less	neg
+not happy with the waiting period	neg
+their education has improved	pos
+time take longer to be deliver	neg
+their service be good	pos
+professional service that you offer	pos
+generally good service	pos
+advice was top notch	pos
+serve well	pos
+the overall service be great	pos
+quick and efficient services	pos
+work more on investment trainings	neg
+Everything was excellent	pos
+service good	pos
+the service be excellent	pos
+certified with the service	pos
+excellent and friendly staff	pos
+the quality of work excellent	pos
+quality customer care	pos
+good customer service	pos
+reception I receive here is superb	pos
+good service	pos
+excellent customer care	pos
+excellent in their services	pos
+very ready to offer assistance	pos
+excellent services	pos
+agent is not readable	neg
+after schelling appointments they would not show up at all	neg
+but price be abit high	neg
+cover at unaffordable rates	neg
+rates are poor	neg
+prices communicated well	pos
+workshop team excellent	pos
+extra service excellent	pos
+service quality be excellent	pos
+quick in responses	pos
+staff be not polite	neg
+so machine do not work for longer period as expected	neg
+the service be good	pos
+please work on prompt update of customer statements especially online statements	neg
+customer service be excellent	pos
+very professional approach to issues	pos
+i have an issue on my account	neg
+actually your service be ok	pos
+the staff be very professional and courteous	pos
+i have always be assist well	pos
+some of your products be steeply priced	neg
+bring your price down abit	neg
+thanks for keeping the standards four years later	pos
+pleasant staff members	pos
+compared to your peers they have better communication than uap investments	pos
+i waited a long time	neg
+communication from your end is poor	neg
+some of your products are steeply priced	neg
+recommend your service to others	pos
+rest assured	pos
+feedback is precise	pos
+the staff are very professional and courteous	pos
+worst experience with you	neg
+i have always been assisted well	pos
+they keep on saying will call you back	neg
+you guys take too long to repair some of the devices	neg
+always great staff and service	pos
+the price is a bit higher than expected	neg
+service is worthless	neg
+service is bad	neg
+service is very bad	neg
+speed is slow	neg
+rate is too high	neg
+unsuccessful	neg
+not enough	neg
+did not get documents	neg
+got documents	pos
+give full report	neg
+share report on time	pos
+share reports on a continuous basis	neg
+happy for giving out the report to the client	pos
+did not get reports	neg
+got reports	pos
+did not get paper	neg
+got paper	pos
+not sure what else was not done correctly	neg
+precise	pos
+making error	neg
+improve accuracy of fund management	neg
+work on accuracy of fund management	neg
+accuracy of fund management	neg
+fund management is inaccurate	neg
+fund management is accurate	pos
+improve accuracy of diagnosis	neg
+work on accuracy of diagnosis	neg
+accuracy of diagnosis	neg
+diagnosis is inaccurate	neg
+accurate diagnosis	pos
+delivered back to the wrong destination	neg
+got ordered to the wrong address	neg
+improve accuracy of delivery	neg
+work on accuracy of delivery	neg
+accuracy of delivery	neg
+delivery is inaccurate	neg
+improve accuracy of service	neg
+work on accuracy of service	neg
+accuracy of service	neg
+service is inaccurate	neg
+accurate service	pos
+misplaced my document	neg
+deduced twice	neg
+duplicate transactions	neg
+different difference between paying cash and booking an item	neg
+product codes confused	neg
+communication is not precise	neg
+prefer precise communication	neg
+precise communication	pos
+information that is incredible	pos
+information given then was a lie	neg
+documents with mistakes	neg
+webster shows something different	neg
+age as captured is not accurate	neg
+captured one of my names incorrectly	neg
+wrong names	neg
+wrong addresses	neg
+what is advertised on billboards is not what you get	neg
+not happy with the way my name is in the cry	neg
+should not in cry	neg
+update my cry status	neg
+account is not up to date	neg
+account is up to date	pos
+i wish if you were to up date	neg
+information is not up to date	neg
+information is out of date	neg
+information is not useful anymore	neg
+information received is outdated	neg
+information is up to date	pos
+recommend your system capturing all details	neg
+false details	neg
+wrong details	neg
+incorrect details	neg
+details not captured correctly	neg
+details are incorrect	neg
+correct details	pos
+accurate details	pos
+improve accuracy of details	neg
+work on accuracy of details	neg
+accuracy of details	neg
+details are inaccurate	neg
+improve data accuracy	neg
+work on data accuracy	neg
+details therein are not correct	neg
+data is not accurate	neg
+misscommunicated	neg
+am not a member yet u keep sending	neg
+not created in my statement	neg
+need a comprehensive statement	neg
+see a comprehensive statement	neg
+statement is erroneous	neg
+was told my statements look good then i lost my cash	neg
+have to check every statement i receive for accuracy	neg
+statement is not accurate	neg
+makes us doubt your statements	neg
+no correct member statements	neg
+not reflect on my statements	neg
+does not communicate accurately	neg
+communicates accurately	pos
+report is not accurate	neg
+report inaccurate	neg
+accurate report	pos
+information incorrect	neg
+correct information	pos
+wrong information	neg
+right information	pos
+false information	neg
+true information	pos
+work on accuracy of information	neg
+improve on accuracy of information	neg
+accuracy information	pos
+work on accurate information	neg
+information was not accurate	neg
+information is not accurate	neg
+information inaccurate	neg
+accurate information	pos
+how do you people keep your records	neg
+records are mixed up	neg
+well explained	pos
+did not explain	neg
+explained well	pos
+not explained	neg
+explained to me	pos
+i like the way they explain	pos
+need to explain	neg
+they explain things	pos
+explain in understandable words	neg
+not clearly informed	neg
+clearly informed	pos
+complained about communication	neg
+provide better communication	neg
+communication can be better	neg
+communication can be improved	neg
+put extra effort to communicate	neg
+be more deliberate in your communication	neg
+improve on communication	neg
+bad communication	neg
+worst communication	neg
+communicate in helpful ways	pos
+poor communication	neg
+communication was helpful	pos
+average communication	neg
+helpful communication	pos
+room to grow in communication	neg
+communicative	pos
+improve on how you communicate	neg
+communication with the customer is absolute excellent	pos
+didn communicate transparently	neg
+doesn't communicate transparently	neg
+dont disclose fully	neg
+didnt disclose fully	neg
+disclose fully	neg
+fully disclose would have been vital	neg
+appear to be very transparent in disclosure	pos
+be more transparent	neg
+communicates with transparent	pos
+communication isn't transparent	neg
+communication is transparent	pos
+communicate to client	neg
+strong communication	pos
+was not communicated	neg
+open communication	pos
+want of communication	neg
+excellent communication	pos
+uncoordinated communication	neg
+lack of synchronized communication	neg
+good customer communication skill	pos
+communication was very poor	neg
+good communication	pos
+not communicated	neg
+communicated well	pos
+be clear	neg
+communication to clients is very clear	pos
+did not put it clearly	neg
+didn't communicate clearly	neg
+communication on point	pos
+need to communicate clearly	neg
+they communicate clearly	pos
+not clear information	neg
+communicated clearly	pos
+not clear communication	neg
+proper communication	pos
+clearer communication	neg
+information is presented clearly	pos
+unclear communication	neg
+clear communication	pos
+messages sent agent understood	neg
+messages are understood	pos
+messages we do send him he at times doesn’t understand	neg
+make it easier to understand	neg
+made it easier to understand	pos
+make me understand	neg
+made me understand	pos
+would like easy to understand information	neg
+easy to understand	pos
+free to seek advise daytime	pos
+allowed me to make good decisions	pos
+helping me make decisions	pos
+expert advice	pos
+expert advise	pos
+excellent advice	pos
+received professional advise	pos
+i would be happier if i can know	neg
+i like the advice	pos
+was not advised	neg
+advised me	pos
+disguised	neg
+advice me	pos
+genuine guidance	pos
+never disguises	pos
+lack of proper advice and guidance	neg
+never disguised	pos
+need to have specific auto express contact on the receipt	neg
+would have been nice to see the full kitchen menu	neg
+provide a menu	neg
+showing the status of the account periodically is healthy	pos
+keep on showing and dating	pos
+just keeping quiet	neg
+should put it on the webster	neg
+can view our savings online	pos
+can we get the statements	neg
+statements be sent earlier	neg
+not been receiving my personal statements	neg
+be sending quarterly statements	neg
+requested for my statement in vain	neg
+expect to be getting statements	neg
+did not get any statements	neg
+unable to get my real time statement	neg
+trying to get my statement	neg
+portal does not seem to generate current statements	neg
+haven't seen my statement	neg
+not received any account statement	neg
+able to get my real time statement	pos
+improve on sending presentations to clients for better knowledge	neg
+provide regular presentations	neg
+give regular presentations	neg
+embark in regular presentations	neg
+wasn't aware	neg
+happy for the payment reminder	pos
+do not warn us	neg
+good job of reminding customers	pos
+i'd appreciate reminders	neg
+staffs are always reminding the customer	pos
+please be reminding	neg
+thanks for the modifications	pos
+would like ratification	neg
+congress for the monthly modifications	pos
+no longer receive modifications	neg
+notified me	pos
+had to keep finding out for myself	neg
+didn alert me	neg
+comprehensive with alert	pos
+more alert	neg
+you alert me	pos
+frequent communication	pos
+communication is regular	pos
+let the customer know what is happening	neg
+keep a customer posted on the progress	neg
+keep customers aware	neg
+keep the client aware of their progress	neg
+communicate on a clients progress	neg
+communicate more	neg
+more communication	neg
+communication is minimal	neg
+communication stopped	neg
+communication breakdown experienced	neg
+there is no forthcoming information	neg
+no communication	neg
+did not get communication	neg
+zero communication	neg
+lack of communication	neg
+did not receive reminders	neg
+received reminders	pos
+need to update	neg
+kept the clients on the know how	pos
+not regular with updated	neg
+regular briefs	pos
+need regular updated	neg
+get regular updated	pos
+more updated	neg
+embark in continuous updated	neg
+didn't get updated	neg
+need to get updated	neg
+i get updated	pos
+had to call and find out	neg
+kept me updated	pos
+keep me updated	neg
+they keep me updated	pos
+customers to be updated	neg
+keeps us updated	pos
+keep customer updated	neg
+keeps me updated	pos
+keep us updated	neg
+you keep us updated	pos
+you keep me updated	pos
+i am updated	pos
+need continuous updated	neg
+get continuous updated	pos
+update me	neg
+constantly updated	pos
+more guidance	neg
+need guidance	neg
+give recommendations	neg
+excellent recommendation	pos
+need to come up with good suggestions	neg
+come up with good suggestions	pos
+work on their communication and feedback	neg
+requested information	neg
+let the public know	neg
+did not share option	neg
+shared option	pos
+did not share information	neg
+share information	pos
+more information	neg
+not been told	neg
+information given by the staff very excellent	pos
+was not given enough information	neg
+staffs give detailed information	pos
+lack of information	neg
+sufficient information	pos
+dont inform	neg
+didn't inform	neg
+not informed	neg
+requested to be informed	neg
+need to inform	neg
+you inform	pos
+would like more information	neg
+well informed	pos
+wish i get more informed	neg
+was informed	pos
+dont know	neg
+like to know more	pos
+do no much about them	neg
+don't know much	neg
+getting to know	neg
+get to know	neg
+never know what's going on	neg
+keeps me informed	pos
+feedback from staff	pos
+got feedback	pos
+good feedback	pos
+good information	pos
+information readily available	pos
+receipt is not available	neg
+form is not available	neg
+card is not available	neg
+statement is not available	neg
+records are not available	neg
+record is not available	neg
+deliverables are not available	neg
+documents are not available	neg
+reports are not available	neg
+report is not available	neg
+paper is not available	neg
+receipt is available	pos
+form is available	pos
+card is available	pos
+statement is available	pos
+records are available	pos
+record is available	pos
+deliverables are available	pos
+documents are available	pos
+reports are available	pos
+report is available	pos
+paper is available	pos
+receipt not provided	neg
+form not provided	neg
+card not provided	neg
+statement not provided	neg
+records not provided	neg
+deliverables not provided	neg
+documents not provided	neg
+reports not provided	neg
+paper not provided	neg
+never provided with receipt	neg
+never provided with form	neg
+never provided with card	neg
+never provided with statement	neg
+never provided with records	neg
+never provided with deliverables	neg
+never provided with documents	neg
+never provided with reports	neg
+never provided with paper	neg
+provide receipt	neg
+provided with receipt	pos
+provide form	neg
+provided with form	pos
+provide card	neg
+provided with card	pos
+provide statement	neg
+provided with statement	pos
+provide records	neg
+provided with records	pos
+provide deliverables	neg
+provided with deliverables	pos
+provide documents	neg
+provided with documents	pos
+provide reports	neg
+provided with reports	pos
+provide paper	neg
+provided with paper	pos
+never got receipt	neg
+never got form	neg
+never got card	neg
+never got statement	neg
+never got records	neg
+never got deliverables	neg
+never got documents	neg
+never got reports	neg
+never got paper	neg
+didn get receipt	neg
+didn get form	neg
+didn get card	neg
+didn get statement	neg
+didn get records	neg
+didn get deliverables	neg
+didn get documents	neg
+didn get reports	neg
+didn get paper	neg
+gave me receipt	pos
+dont get form	neg
+gave me form	pos
+gave me card	pos
+gave me statement	pos
+gave me records	pos
+dont get deliverables	neg
+gave me deliverables	pos
+dont get documents	neg
+gave me documents	pos
+dont get reports	neg
+gave me reports	pos
+dont get paper	neg
+gave me paper	pos
+did not get receipt	neg
+got receipt	pos
+did not get form	neg
+got form	pos
+did not get card	neg
+got card	pos
+did not get statement	neg
+got statement	pos
+did not get records	neg
+got records	pos
+did not get deliverables	neg
+got deliverables	pos
+answering our queried quickly	neg
+it is almost 2 months and the agent has not responded	neg
+was promised feedback in two that was never to be till this day	neg
+resolve queried quickly	pos
+not always very efficient at responding in a timely manner	neg
+called wrote email till today nothing	neg
+no feedback	neg
+delayed feedback	neg
+responds positively	pos
+delay in feedback	neg
+quick to answer	pos
+poor feedback	neg
+you answer client queried in good time	pos
+liveliness of feedback	pos
+didn't get feedback	neg
+timely feedback	pos
+quicker turn around	neg
+feedback promptly	pos
+not quick at responding	neg
+quick feedback	pos
+slow response	neg
+prompt feedback	pos
+it took days for the agent to respond	neg
+responded promptly	pos
+improve response times	neg
+respond to your issues without much delay	pos
+quicker response	neg
+respond at your earliest convenience	pos
+all went silent with no response on mail	neg
+response time to email is very short	pos
+should be quick at responding	neg
+responses on phone is swift	pos
+no response on	neg
+quick response to quotations	pos
+early response	pos
+delay respond	neg
+the response is quick & fast	pos
+response time	pos
+long respond	neg
+timely response	pos
+to date no one has ever responded	neg
+response is very encouraging	pos
+reply	pos
+respond to mail faster	neg
+kindly respond	neg
+quick response	pos
+response	pos
+faster response	neg
+fast response	pos
+respond	pos
+kindly respond to my email	neg
+response on time	pos
+queried are responded to	pos
+wish that the fund administrator promptly responded to email	neg
+quick to respond	pos
+called me	pos
+called back	pos
+takes time before they pick a call or even call back	neg
+call the client directly	neg
+had to call head office severally	neg
+assist your clients fully	neg
+well assisted	pos
+assistance	pos
+not been assisted for the last 3 months	neg
+willing to satisfy	pos
+assisted	pos
+never been assisted	neg
+ready to assist	pos
+assist	pos
+cannot get any assistance	neg
+willing to assist	pos
+more contact	neg
+send updated without having to be prompted	neg
+whenever my services is almost she calls me	neg
+would be checking up on me	neg
+even when your staff was on copy	neg
+consider inspecting customer vehicles frequently	neg
+had to beg for my document to be send	neg
+at all times the staff were in touch with me	neg
+lots of staff just filling about	neg
+seated for min before anyone came up to me	neg
+wait for staff	neg
+have not even received a call	neg
+email are replied only after you send reminders	neg
+phone are rarely answered	neg
+have i ever engaged with	neg
+engage the client	neg
+limited engagement	neg
+well attended	pos
+more target member engagement	neg
+staff are quite engaging	pos
+more engaged	neg
+very engaging	pos
+attention to customer	pos
+more engagement	neg
+great way of engaging	pos
+have had to push myself	neg
+have to call to find out	neg
+ignore	neg
+lazy	neg
+reluctance to respond	neg
+didn't have to remind	pos
+staff's very energetic	pos
+did nothing	neg
+remembers to contact me	pos
+interaction once in awhile	neg
+taking upon themselves	pos
+did not have much interaction for a long time	neg
+staff good initiative	pos
+more one on one follow up	neg
+love the energy	pos
+never received one on one interaction	neg
+interact well	pos
+not really had much interaction with	neg
+staffs are very interactive	pos
+not had much interaction	neg
+interaction is good	pos
+interact with the mechanics	neg
+good interaction	pos
+haven't interested much	neg
+healthy interactions	pos
+you do not act on customer instructions	neg
+very active	pos
+practice	pos
+not active	neg
+ready to provide services	pos
+follow up a customer's and assist them	neg
+no one is able to respond back to me	neg
+visit them to check whether they are facing any challenges	neg
+be in touch	pos
+promises to call me back never happen	neg
+immediate follow up should be done	neg
+follow up	pos
+never no one followed up	neg
+you are connecting with the people	pos
+no acknowledgment	neg
+keep finding out for myself	neg
+i believe am being ignored	neg
+kindly get back to me	neg
+promised me to call but never did	neg
+no one got back to me	neg
+thank you for calling me	pos
+agent is not responding	neg
+coordinate team	pos
+yet to receive replies	neg
+coordinating	pos
+coordination	pos
+not reply	neg
+never replies	neg
+staff are ready	pos
+responsivenss	pos
+poor response to user requests	neg
+willing to act	pos
+lack of response	neg
+responded	pos
+reclaim units without permission from the customer	neg
+supporting staff are unfair to students	neg
+been paying and agent reclaimed the product	neg
+agent has been charging her incise of troubleshooting	neg
+theft	neg
+i was initially told i was told it is not possible	neg
+u never paid me	neg
+staff collided	neg
+discrimination	neg
+discriminated	neg
+discriminate	neg
+no discrimination	pos
+changed my policy without my knowledge	neg
+agents are not giving the correct information	neg
+never keep your promise	neg
+under promise	neg
+failure to deliver on their promise	neg
+any chance to get money from you	neg
+agent charged him for troubleshooting	neg
+above board	pos
+agents were cheating	neg
+mutual	pos
+his-selling	neg
+dependable	pos
+misselling	neg
+reassured	pos
+was never rewarded our promise	neg
+promise to call back of which they dont	neg
+incredible people	pos
+as promised	pos
+yet we promised	neg
+delivers on her promises	pos
+keep their words	pos
+they would be later than they promised	neg
+keeping your word	pos
+do not keep their word	neg
+you are open with our savings	pos
+keep your word	pos
+despite being promised	neg
+keeps her word	pos
+promised	pos
+despite promising	neg
+forgot when i came back it was given back to me	pos
+unscrupulous	neg
+very open	pos
+not been created on	pos
+did not influence our decision	pos
+wish small things were laid bare	neg
+someone who tells you the truth	pos
+be open	neg
+truthful	pos
+integrity	pos
+dishonest	neg
+honest	pos
+sincerity	pos
+replaced the part with a used one	neg
+it is legitimate	pos
+sincere	pos
+liar	neg
+felt at home and also safe when in this shop	pos
+trustworthy	pos
+lie	neg
+appear to be very transparent	pos
+trust	pos
+happy the way my money is handled	pos
+transparent	pos
+increasingly gained trust	pos
+went home without my valve covers	neg
+inviting	pos
+liked everyone	pos
+well received	pos
+receptions	pos
+good customer reception	pos
+given a warmreception	pos
+received	pos
+receptive	pos
+not helping	neg
+love the staffs effort and cooperation	pos
+staffs are cooperative	pos
+couldn't help me	neg
+have been of much help	pos
+not offering any help	neg
+getting help whenever i have a problem	pos
+customer care has not been giving any help	neg
+ready to serve	pos
+ready to help	pos
+did not get help	neg
+willing to help	pos
+improve staff helpfulness	neg
+not willing to help	neg
+helpful	pos
+quick at helping customer	pos
+support is too low	neg
+happy and joyful employees	pos
+freundlich	pos
+friendly	pos
+make it friendly	neg
+staff's are friendly	pos
+unfriendly	neg
+how they communicated was friendly	pos
+warmth	pos
+i am welcome here	pos
+warm	pos
+welcomed me well	pos
+require to be more cordial	neg
+cordial	pos
+suppurative	pos
+delightful	pos
+support	pos
+happy to serve	pos
+unapproachable	pos
+nice	pos
+easy to talk to	pos
+greetings	pos
+hospitable	pos
+jovial cheerful	pos
+interpersonal	pos
+smiling	pos
+personal attention	pos
+smile	pos
+friendliness of staff	pos
+rigid	neg
+being flexible to customer needs	pos
+robotic	neg
+flexible	pos
+be more flexible	neg
+flexibility of staff	pos
+experience i also got from my internship is invaluable	pos
+trains their interest well	pos
+supervisor in the service hall to step up his vigilance	neg
+would consistently forget the appropriate fitting	neg
+local who understand the culture and speak the local language	pos
+not switched on	neg
+be switched on	neg
+are switched on	pos
+clear understanding of the products	pos
+is switched on	pos
+do not fully understand	neg
+staff bright	pos
+did not seem to understand	neg
+passionate	pos
+could not also understand	neg
+passion	pos
+didn have a proper understanding	neg
+dont have a proper understanding	neg
+doesn have a proper understanding	neg
+have a proper understanding	neg
+has a proper understanding	pos
+informed staff employee technical	pos
+resourceful	pos
+useless	neg
+careless	pos
+incapable	neg
+capable	pos
+seriousness	pos
+thorough in your work	pos
+thorough with their work	pos
+have the answers	pos
+diligence	pos
+oversight	pos
+exercise diligence	neg
+diligent	pos
+attention to detail	pos
+made mistakes	neg
+well informed staff	pos
+keenest to detail	pos
+lots of mistakes	neg
+ever able team	pos
+nobody knows what's going on	neg
+got the best out of them	pos
+staff do not fully understand the products	neg
+knows exactly what to say	pos
+quick diagnosis skill	pos
+have faith in all the staff	pos
+rush to make conclusions	neg
+focused	pos
+not doing work to their fullest	neg
+know what they are talking about	pos
+had to look for another mechanics	neg
+know their work well	pos
+mixed up the types	neg
+know their job	pos
+multiple people that couldn't help me	neg
+know there job so well	pos
+ignorant	neg
+no one seems in any way to know what they are doing	neg
+well versed on your company products and services	pos
+understanding of the job	pos
+know so much	neg
+so much knowledge	pos
+great in research	pos
+workmanship	pos
+improve on workmanship	neg
+skilled	pos
+competent	pos
+professional	pos
+lack of professionalism	neg
+comprehensive	pos
+no order	neg
+organized	pos
+not organised	neg
+orderly	pos
+organization	pos
+get organised	neg
+organised	pos
+impressed by the level of professionalism	pos
+hardworking	pos
+commitment	pos
+committed	pos
+dedicated	pos
+hard working	pos
+these were not taken into consideration	neg
+staff education is very good	pos
+a pleasure working with	pos
+improve the technical skill	neg
+qualified	pos
+technical just picked everything yet the spare tyre was not ok	neg
+your technical can't remove dust from types and then do balancing	neg
+good people	pos
+employ a resident gearbox specialist	neg
+well conversant with there work	pos
+having tools or training	pos
+my front tyre was not bolted well	neg
+great knowhow	pos
+increase the job scope to enable technicians handle more tasks	neg
+good sales personnel	pos
+expert	pos
+regular refreshed training for your technicians	neg
+good sales personal	pos
+get trained on	neg
+good human resource	pos
+staff needs training	neg
+workers are very good	pos
+trained	pos
+need to be trained	neg
+impressed with two staffs	pos
+should have been kind enough	neg
+customer care are sometimes reluctant	neg
+feel valued as as a customer	pos
+staffs value customers	pos
+the way you value the costume	pos
+value your customers	neg
+values her customers	pos
+staff were in a hurry to close	neg
+loved the card you brought	pos
+consider others first	neg
+always feel at home	pos
+just staring while i carried things	neg
+felt at home	pos
+reluctance to assist	neg
+this place makes you feel like home	pos
+carry things on my own	neg
+staff make me feel i am home	pos
+no appreciation for customers	neg
+we feel important	pos
+it was very cold and i got a cup of tea	pos
+change your way of treating customers	neg
+has come to my rescue when i needed most	pos
+staff never gathered	neg
+serve you right	pos
+no one others about me customer clients	neg
+their for the customers	pos
+be more accommodation	neg
+there for the customers	pos
+customer is appreciated	pos
+to be accommodation	neg
+very understanding staff	pos
+staff need to be more accommodation	neg
+very understanding and professional staff	pos
+waited for me to come	pos
+communicate with kindness	neg
+kind	pos
+take my side	pos
+require to be more patient	neg
+ready to listen	pos
+impatient	neg
+customer approach	pos
+handle client	pos
+mishandling	neg
+handled	pos
+mishandle	neg
+eager to solve my problem	pos
+poor while handling clients	neg
+happy how they handle clients	pos
+human relations approach	pos
+value their customers	pos
+assurance	pos
+willing to understand the customer concerns	pos
+concern for my well being	pos
+concerned about its customers	pos
+thinks he is doing me a favour	neg
+professionally handled	pos
+customer service with the concern	pos
+no one guided me	neg
+professionally hundred	pos
+concerned about clients	pos
+show you're concerned	neg
+take their time to listen	pos
+peace of mind	pos
+nobody wants to take the pain of finding a solution	neg
+morale	pos
+had to take time off my schedule	neg
+assisted before opening times	pos
+listen to the customer first	pos
+more human	neg
+respond when i need help even in the most ungodly hours	pos
+listen	pos
+inhuman	neg
+worked past hours	pos
+make the customer to feel unappreciated	neg
+served well despite arriving late	pos
+callous	neg
+thank you for staying until so late	pos
+take care of your customers feelings	neg
+willingness	pos
+no one cares	neg
+looked after us very well	pos
+cared	pos
+insensitive	neg
+sensitive	pos
+willing to guide	pos
+empty of staff	pos
+guns are wonderful	pos
+well behaved staff	pos
+nice people	pos
+movable	pos
+liable	pos
+pleasing	pos
+charming	pos
+very lovely ladies	pos
+nice staff	pos
+lovely staff	pos
+improve staff politeness helpfulness	neg
+lovely people	pos
+hung up on me	neg
+pleasant professional	pos
+we tend to nag him a lot	neg
+down to earth	pos
+nag with frequent call	neg
+served with a lot of dignity	pos
+served well with a lot of humility	pos
+befitting	neg
+humble	pos
+harassing customers	neg
+dont treat your customers like dogs	neg
+hostile	neg
+courteous	pos
+humiliated	neg
+courtesy	pos
+abuse	neg
+good treatment from all the staff	pos
+harsh	neg
+love how i was treated	pos
+disrespectful	neg
+treat customers well	pos
+irrespective	neg
+treated nicely	pos
+rudely	neg
+treated well	pos
+no apology	neg
+i like how you treat customers	pos
+no one called to apologise	neg
+treat me well	pos
+sales persons are on phone while talking to customers	neg
+respectfully	pos
+customer care staffs are not introducing themselves	neg
+not happy with how i was treated	neg
+respectful	pos
+offensive	neg
+got the best treatment	pos
+arrogant	neg
+loved how i was treated	pos
+treat as garage	neg
+wish us well	pos
+decorum	pos
+polite	pos
+apologetic	pos
+rude	neg
+gentle	pos
+interrupted	neg
+pleasant	pos
+courtesy of staff	pos
+presentable staff	pos
+beautiful	pos
+employees look smart	pos
+well groomed	pos
+nicely dressed	pos
+smartly dressed	pos
+presentation	pos
+smart	pos
+agent resigned	neg
+staff keep on changing	neg
+need support personal on saturdays	neg
+avoid jumping from one car to another before completing a job	neg
+agent is not available	neg
+create time for meeting with retires	neg
+you are not contactable	neg
+never interested with your staff	neg
+have not interested with the staff	neg
+haven't interested with you	neg
+not interested with you staff	neg
+not seen a single staff	neg
+never seen any of your staff	neg
+never met any staff	neg
+had to wait	neg
+consider having an in-house mechanics	neg
+one technical only doing so much	neg
+getting someone to serve you is hard	neg
+personnel staff are hard to reach	neg
+unreasonable excuses of being in the field	neg
+staff were complaining that they are tired and need a break	neg
+mechanics overwhelmed	neg
+staff appear overwhelmed	neg
+only time i saw staff is when	neg
+wait for staff to be called to attended	neg
+i couldn't get help	neg
+there was nobody to do it	neg
+serve many	neg
+reach right staff	neg
+unable to reach my	neg
+help lines are jammed	neg
+waiting also the visit of the funds	neg
+haven met you physically	neg
+difficult to get hold off staff	neg
+numbers lines don't work	neg
+numbers provided don't work	neg
+numbers provided aren't working	neg
+shorter lines	neg
+direct line	neg
+no longer works	neg
+mails always gone unanswered	neg
+refused to pick my calls	neg
+never answer the call	neg
+avoid call waiting	neg
+to be picked on call	neg
+do not answer phone calls	neg
+calls are not picked	neg
+never pick calls	neg
+to be picking up customer calls	neg
+long queue	neg
+add another line	neg
+add staff	neg
+staff are most of the time engaged in meetings	neg
+less workshop staff	neg
+customer care to be more available	neg
+agents not there for the customer	neg
+increase number of agents	neg
+have one person dedicated	neg
+employ an extra mechanics staff	neg
+mostly interested with	pos
+consider more technicians	neg
+i have been been able to interact with you staff	pos
+staff were too busy	neg
+staff is interactive	pos
+employ more manpower	neg
+staff are puncture	pos
+add cashier	neg
+easily accessible	pos
+add sales team	neg
+always there for consolation	pos
+understaffed	neg
+staff are available	pos
+not enough staff	neg
+made herself available	pos
+increase staff	neg
+staff always available	pos
+shortage of workers	neg
+have more technicians	neg
+agent is always available	pos
+open door policy	pos
+lunch hour busy	neg
+agent is available	pos
+add more workshop staff	neg
+always there	pos
+inaccessibility of staff	neg
+fluctuating prices	neg
+when it comes to paying the mode of money is well not commanding	neg
+open a till number where there no charges	neg
+prices reduced	neg
+price to be subsidized	neg
+have cheaper price	neg
+review prices	neg
+prices are a bit on the higher side	neg
+middle class should be considered in terms of pricking	neg
+charge the same amount as	neg
+competitive pricking would attract more people	neg
+encourage competitive pricking	neg
+high pricking	neg
+several price changes	neg
+fee lowered down	neg
+parking fees of the mall shouldn't be effected	neg
+withdraw the 22 shillings for transaction cost	neg
+do away with transaction fee	neg
+transaction fee to be removed	neg
+transaction fee with mobile company is a bit high	neg
+rather steep	neg
+amount of money to be reduced	neg
+competitors cheaper	neg
+prices are on the higher side	neg
+overpriced	neg
+amount of spent for job	neg
+cost is too high	neg
+making the price to be expensive	neg
+had to spent more than	neg
+reduce our charged	neg
+price to be reduced	neg
+reduce weekly charges	neg
+be pocket friendliest	neg
+would like price reduction	neg
+work on price reduction	neg
+yearly increase	neg
+prices keep going up	neg
+costly	neg
+above average prices	neg
+reduction of the price	neg
+bring down some payment	neg
+provide cheaper option	neg
+consider giving special rate to clients	neg
+need to review rates	neg
+lower pricking	neg
+prices are too high	neg
+expensive	neg
+price consistency	neg
+should not be charged	neg
+high spend	neg
+low spend	pos
+high rate	neg
+low rate	pos
+high cost	neg
+low cost	pos
+rates need to be regulated	neg
+price reduction	neg
+economical	pos
+reduce price	neg
+level price	pos
+competitive pricking	pos
+reasonable	pos
+cost of the service rendered is customer friendly	pos
+satisfied with the money he pays	pos
+installments are fair	pos
+price acceptable	pos
+loan interest	pos
+rates are competitive	pos
+price of is friendly	pos
+fair charging	pos
+charges are commensurate	pos
+pocket friendly	pos
+prices are fair	pos
+introduce more sandwiched and wraps	neg
+more aerospray air freshness	neg
+adding car perfumed	neg
+offer other products like tanks	neg
+option for service parts	neg
+add axis to the tyre bands	neg
+more japanese types	neg
+some products wanting	neg
+review the buffets menu	neg
+custom accessories	pos
+have a wider range of types	neg
+recommends more products	neg
+requested other products	neg
+manufacture more product	neg
+introduction of other products	neg
+introduce other products	neg
+more varieties	neg
+improve on variety	neg
+really like the idea of you guns introducing the meal combs	pos
+have more option on spare parts	neg
+good stuff	pos
+product range	pos
+get paper ones or re-use able container	neg
+don't like plastic container	neg
+stop giving plastic straw	neg
+spark plug is sold in terms of pairs yet a single is used	neg
+more stronger container	neg
+packing has improved	pos
+container were smashed	neg
+good packages	pos
+complained about his radio	neg
+radio got spoils	neg
+radio is spoiled	neg
+radio is malfunctioning	neg
+radio station be included	neg
+experiencing problem with radio	neg
+design the to to have more working hours	neg
+hours we have given to view to is less	neg
+failure in signals	neg
+better the signal and channels	neg
+lost signals	neg
+better signal	neg
+improve the signals	neg
+signal issues which has not been sorted	neg
+poor signal	neg
+not all duke stations can be viewed	neg
+issue was concerning the channels	neg
+problem with her channels	neg
+offered shallow channels	neg
+have multiple channels	neg
+lost channels	neg
+the channel list to include tanzania channel	neg
+inclusion of gospel channels	neg
+some programs being scrambled	neg
+channels are highlight in the flies but they are not active	neg
+sports channel list to have one that air english premier league	neg
+additional of more sports channel	neg
+black line appearing the bottom side of his to	neg
+improve screen	neg
+to has been malfunctioning	neg
+a stand for the to to be included in the package	neg
+screen is very clear	neg
+requested a bigger to	neg
+accommodate a did	neg
+some channels to be added	neg
+signal challenge	neg
+improve in terms of our torch	neg
+only concern is our torch	neg
+complained about our torch	neg
+extension tables for the lamps	neg
+torch to be worked on	neg
+torch is malfunctioning and its size need to enlarged	neg
+increase the size of torch	neg
+torch is malfunctioning	neg
+size of the torch to be enlarged	neg
+size of the torch should be enlarged	neg
+torch size would be increased	neg
+two bulb among the four has not being working	neg
+improve on the quality of bulb	neg
+lights are dim at times	neg
+lamps to be more brighter	neg
+splitting of the lamps services from the to services	neg
+additional lamps	neg
+have more lamps	neg
+if the lamp could switch off at midnight	neg
+every lamp to have its own switch	neg
+enough lighting in the homestead	pos
+more bulb	neg
+bulb can light the house until late	pos
+larger torch	neg
+brightness is adequate	pos
+lighting is bright	pos
+lamps to have more light	neg
+brightness is enough	pos
+torch not working	neg
+lighting has enhanced security	pos
+torch is faulty	neg
+lighting has improved security	pos
+improve on the number of switches	neg
+improve on the part of charging power	neg
+low charge	neg
+less power charge	neg
+battery should light for more hours	neg
+requesting for a better battery	neg
+battery does not last long	neg
+battery is serving for 4 hours	neg
+battery is not long lasting	neg
+battery that last longer	neg
+challenge is the battery	neg
+battery is lasting for three hours only	neg
+power is not long lasting	neg
+battery does not last with power	neg
+battery is malfunctioning	neg
+battery with large power capacity	neg
+battery that has larger power capacity	neg
+raised an issue to his agent about his battery	neg
+increase the length of the lamp tables	neg
+length of the power tables to be longer	neg
+add battery voltage	neg
+battery with higher power capacity	neg
+increase the charging output	neg
+charges should be improved	neg
+would like the charging system to be upgrade because it is not stable	neg
+charging system is failing	neg
+power is not long lasting,	neg
+battery to hold more power capacity	neg
+product battery and charging features	pos
+not experienced any problem with our products	pos
+happy about our products	pos
+has not experienced any challenge with azure product	pos
+has not any problem in our products	pos
+likes the product	pos
+not encountered any problem with his products	pos
+there is no malfunction	pos
+product is working perfectly	pos
+products are quality	pos
+product is quality	pos
+everything is working perfectly	pos
+everything is working properly	pos
+products are supper	pos
+quality good	pos
+consider the quality of products	neg
+quality spare	pos
+good cocktail	pos
+good contains	pos
+the iting part was also too dry	neg
+pancake were great today	pos
+cold inside and the colour had also changed	neg
+enjoyed my samovar today	pos
+cake was hard	neg
+really like your that chicken noble	pos
+very hard and the iting is dry	neg
+love the zucchini cake	pos
+fauces are bland	neg
+very good juices	pos
+food is really amazing	pos
+halloumi was not good and it was over cooked	neg
+food was great	pos
+swahili chicken casserole was dry	neg
+food is great	pos
+sauce was not thick	neg
+food is always delicious and taste	pos
+less meat	neg
+food is so delicious	pos
+really like your food	pos
+products are very powerful	pos
+everything is sanctioning well	pos
+okay with the products	pos
+has not faced any challenge with our products	pos
+satisfied with the product	pos
+everything in the package is sanctioning	pos
+every item in the package is sanctioning perfectly	pos
+product in the package is perfect and working	pos
+package is nice	pos
+package is good	pos
+papers are of good quality	pos
+offer satisfying solutions	pos
+papers are if good quality	pos
+everything about the unit is good	pos
+twitching system need to be worked on	neg
+shocks which did not last 3 months	neg
+original product	pos
+doesn't play most cos and did	neg
+face products	neg
+genuine parts	pos
+face parts	neg
+superior product	pos
+very good products	pos
+love the products	pos
+products are rigid and flexible	neg
+i really like all the products	pos
+product features	pos
+please be putting enough rice it is very little	neg
+have a bit more green on the side	neg
+apportioning is very little	neg
+fair portions	pos
+portions reduce	neg
+apportioning wasokay	pos
+portion size	pos
+new customers are allowed to enjoy a free week	neg
+enjoy the services of the package one extra day before it is deactivated	neg
+better if they are allowed to enjoy the services one extra day	neg
+have not received promotion items from you	neg
+come up with better ways of appreciating your regular customers	neg
+offer given should have an extension validity period of at least 3 months	neg
+give us longer sales periods	neg
+discount granted should be redeemable at a later date	neg
+suggested a subsidy	neg
+deserve a higher level of discount	neg
+extra discount would be good	neg
+better discount	neg
+loyal	pos
+no innovative proposals from you in more than 15 years	neg
+old types should be bought from customers	neg
+include wheel ligament in the fitting of purchased types	neg
+i won	pos
+my lucky day won	pos
+recently won a	pos
+include biting  one drink in entrance fee	neg
+meaningful event	pos
+pays clot but not enjoying the product	neg
+should be keen on the value	neg
+did not get full value for my money	neg
+worth the wait	pos
+can save some money	pos
+imp love value for money	neg
+cost effective	pos
+yet to experience benefits	neg
+real value to my ponies	pos
+children are doing their studies well	pos
+children have improved in school	pos
+children can study	pos
+find out a way of paying out some dividend	neg
+children have improved their education	pos
+increase the daily limit	neg
+children have improved in their education	pos
+code should be valid till midnight	neg
+children can do their studies properly	pos
+ended buying parts that were not needed	neg
+useful to use	pos
+unhappy with the amounts that we spend every month	neg
+makes it worthwhile	pos
+add some money for a subsequent emergency c-section	neg
+customer is able to save some money	pos
+be rewarded when they refer a new customer	neg
+with little cost i have really gained a lot	pos
+take advantage of our money	neg
+look for any chance to get money from you	neg
+product has enabled the customer to save some money	pos
+positively affected the family	pos
+do not derive any value	neg
+return was in single digit percentage which i found unacceptable	neg
+feel highly short changed	neg
+collapse with my eight years of investing	neg
+good to know that you are handling my pension with care and ensuring growth	pos
+plans can perform much better than they have been doing	neg
+return on the pension scheme is very impressive	pos
+poor returns	neg
+retirement plan is the best	pos
+my money was withheld without interest	neg
+money not earning any interest	neg
+positive growth	pos
+rate of return should be relatively higher	neg
+returns could be better	neg
+interest rate ok	pos
+better returns	neg
+returns are better	pos
+introduce a sample for customers	neg
+you lose out	neg
+children are always entertained from different programs	pos
+increase outpatient limit	neg
+always informed on what is happening worldwide	pos
+where being a client for a number of years provides extra benefits	pos
+can watch news on what is happening	pos
+maintenance should commence when agreement is done	neg
+updated of what is happening around the world	pos
+dental package should be increased	neg
+enjoying different types entertainment	pos
+i'm befitting nothing	neg
+security is adequate	pos
+lost my hard earned money	neg
+really helps a lot	pos
+feel my money is not well managed	neg
+saving us on our premium	pos
+rate of interest at-times very low	neg
+brighter future	pos
+rates have been down	neg
+to has enabled the entire family to be informed	pos
+no longer spend on fuel	pos
+level of insurance premium is always a concern	neg
+code should be valued till midnight	neg
+pay a high premium	neg
+has enhanced security	pos
+review the premium	neg
+burden of is gone	pos
+value for customer	pos
+give us incentive	neg
+performance of the kiss in school has improved	pos
+value for me	pos
+suggested for bonus like two days	neg
+good member investment	pos
+offer bonus	neg
+saving because i want to grow	pos
+give bonus and incentive	neg
+lives have changed positively	pos
+value for money	pos
+no incentive	neg
+previous purchase still giving good	pos
+to decide if i got value for my money	neg
+value for customers service	pos
+long to break even	neg
+it is worth it	pos
+cover at unfordable rates	neg
+my business business has grown	pos
+premium on the higher side	neg
+payment is worth the service	pos
+invest optimally	pos
+cost of getting loan is very high	neg
+worth the money	pos
+rate is high	neg
+reassured me on the value	pos
+worth your time	pos
+give clients a car	neg
+worthwhile	pos
+has added value	pos
+benefits perceived	pos
+really wanted the carrot cake	neg
+sometimes food isn ready or finished	neg
+no coffee available and it's only mid morning	neg
+each time i order for a snack its not always there	neg
+no battery	neg
+store more windscreen papers	neg
+looking for a tyre	neg
+wish you had the puncture kit	neg
+no brake pads	neg
+lack of enough ve products	neg
+bring more heavy-duty portable oppressors	neg
+types i wanted were not available	neg
+i wanted pirelli	neg
+bridgestone types are rare to find in your stores	neg
+would wish to see sun spare wheel covers	neg
+enough furniture	pos
+improve on products like spares to be in the site	neg
+you would have all equipment	neg
+avail	neg
+stock more spares	neg
+stock more stairs	neg
+service parts should be increased	neg
+provide brake shoes	neg
+lacks spare parts	neg
+provide all parts	neg
+sell spares	neg
+avail shocks	neg
+should have different types spare parts	neg
+missed a number of replacement parts	neg
+invest more in parts	neg
+needed pus springs was model	neg
+underwriters were not always very efficient	neg
+take care of speed at which your customers deposit,withdraw their earnings	neg
+cost the shares	neg
+less time spent in the workshop	neg
+would like to spend shorter time	neg
+fasten approval	neg
+i want to spend shorter time when i visit	neg
+waited for long	neg
+quicker service in the future	neg
+service delivery timelines not met	neg
+consider minimizing the time taken	neg
+bit slow	neg
+needs speed	neg
+wastage of time	neg
+slow	neg
+i waste more time	neg
+time wasted	neg
+took much time	neg
+enable them solve customers issues without delay	neg
+delay in service delivery	neg
+took so long	neg
+took long	neg
+delayed	neg
+delay	neg
+kept waiting unnecessarily	neg
+waiting	neg
+customer care delay	neg
+congestion at the counters	neg
+i have been requesting for a less than 1 year statement	neg
+takes a very long time	neg
+next time order will be placed sap	neg
+consider adding more days	neg
+arrives late	neg
+take a while to be processes	neg
+improve on processing	neg
+still pending for processing	neg
+hasten service	neg
+hasten the duration of	neg
+takes forever	neg
+forever	neg
+waste of time	neg
+no waste of time	pos
+waste of tm	neg
+no waste of tm	pos
+reduce the waiting period	neg
+check on time	neg
+quick to attend to issues	pos
+reasonable time	pos
+tired	neg
+quick	pos
+expedite	neg
+services are done expeditedly	pos
+improve on time delivery	neg
+time taken should improve	neg
+time was perfect	pos
+late	neg
+convenient wait	pos
+not effected	neg
+minimum time used	pos
+still pending	neg
+time efficient	pos
+long lead times	neg
+did not take much time	pos
+time is wasted	neg
+time is not wasted	pos
+did not assist in time	neg
+takes too long for a faulty product to get repaired	neg
+avoid waiting	neg
+record time	pos
+took more time than i usually do	neg
+on time	pos
+wait longer	neg
+value customers time	pos
+long wait	neg
+fast with their processes	pos
+one has to wait for sometime	neg
+served in time	pos
+you are taking too long to clear with the customer	neg
+took them 5 minutes to notice faults	pos
+took too long	neg
+flowing services	pos
+action very fast	pos
+gives you time to do other things	pos
+at a snail pace	neg
+swift	pos
+took a while to process	neg
+timely	pos
+maintain the pace	pos
+long lead time	neg
+speed of execution is fast	pos
+instant services	pos
+serve all clients in a timely manner	pos
+rate at which i have been served	pos
+long waiting time	neg
+delay in service	neg
+prompt service	pos
+faster approval	neg
+short time	pos
+quicker service	neg
+fast service delivery	pos
+took the shortest time	pos
+took so more than expected	neg
+express service	pos
+speed can be enhanced	neg
+fast service	pos
+served though belated	neg
+expedient service	pos
+taking the whole day to work on	neg
+service at minimal time	pos
+took more than 5 months to activate	neg
+replaced instantly	pos
+taken way longer than expected	neg
+services done on time	pos
+used less amount of time	pos
+jobs take longer	neg
+less time than i expected	pos
+long	neg
+service was real time	pos
+job of 10 minutes is taking 30 minutes	neg
+doesn't take long before being served	pos
+email sent in 2014 yet to be acted upon	neg
+express	pos
+15 min and counting	neg
+saved my time	pos
+done on time	pos
+having an issue for the last two months	neg
+take 12 days and counting to	neg
+spent less time	pos
+get services faster	neg
+was done fast	pos
+faster	neg
+fast	pos
+have to more than 90 min for the food to be delivered	neg
+food took his to arrive	neg
+food got to me within the stipulated 60 min time	pos
+food took over two hours to arrive	neg
+usually receive my order in less than 30 min	pos
+problem with the time it takes to deliver	neg
+delivered as expected	pos
+delivered within 3 hours of ordering online	neg
+delivered as stated	pos
+more vehicles to deliver	neg
+delivered within the hour as started	pos
+add more delivery vehicles	neg
+had to get my own means for delivery	neg
+receive my delivery	pos
+never delivered it	neg
+receive my order	pos
+receive my goods	pos
+problem is delivery	neg
+food arrived early today	pos
+took sometime to be delivered	neg
+food arrived on time	pos
+goods arrived on time	pos
+check on delivery	neg
+within minutes	pos
+instant delivery	pos
+prompt delivery	pos
+delivery is terrible	neg
+delivered prompt	pos
+delivery its terrible	neg
+slow delivery	neg
+delivery was prompt	pos
+delivery time is high	neg
+delivered fast	pos
+never deliver on time	neg
+fast delivery	pos
+delivery is late	neg
+delivery was fast	pos
+delayed delivery	neg
+delivered very first	pos
+always late	neg
+delivery was quick	pos
+meals we order these days arrive on time	pos
+problem comes in with your delivery system	neg
+delivery time has improved	pos
+yet to receive my goods	neg
+delivery time today improved	pos
+cap when it comes to delivery	neg
+timely delivery	pos
+delivery time is low	pos
+was late not once so many times	neg
+delivery took 40mins from time of order	neg
+issue i have is the delivery time	neg
+delivery wise it was on time	pos
+took long to arrive	neg
+delivered on time	pos
+delivery time	pos
+delivered takes time	neg
+delivery on time	pos
+delivered take time	neg
+statements to be send sent without my prompt	neg
+all was smooth	pos
+process of was is not smooth	neg
+process of was is smooth	pos
+would love for it to be an easier process	neg
+faced very few challenges	pos
+had to visit the branch a couple of times	neg
+has not experienced any challenge	pos
+had to do trial and error	neg
+lot of limitations	neg
+at times you need to call more than once to get the required information	neg
+unable to change to another email	neg
+you are more elaborate	neg
+consider return job within 3 weeks	neg
+even after visiting your offices	neg
+makes work a little bit hard going to look got them by myself	neg
+installment method is so flexible	pos
+withdrawing such a simple policy has taken almost a month	neg
+follow up process on referral customer is very poor	neg
+too much paperwork	neg
+in vain	neg
+take booking	neg
+when they could have done this	neg
+had to come all the way	neg
+had to move to 2 of your centres	neg
+it is difficult	neg
+numerous email and phone call to sort out the simplest issue	neg
+increase number of service computers	neg
+diagnostic machine is really mediocre	neg
+provide machines to the front desk sales agents	neg
+do something about your systems	neg
+systems are efficient	pos
+system being used wont let them	neg
+system being used wont let her	neg
+system being used wont let him	neg
+systems work	pos
+have made it easier for us	pos
+shopping went very smooth	pos
+stuck in the old paper based system	neg
+old way ways of doing business	neg
+easy to tell	pos
+old school way of doing business	neg
+no issue at all	pos
+stop gap measures	neg
+without much rustle	pos
+filing new documentation each time	neg
+it was not a rustle	pos
+staff have made it impossible	neg
+easy to access	pos
+getting information is hard	neg
+encountered no issue so far	pos
+difficult	neg
+haven't encountered any difficulties	pos
+force me to visit the branch	neg
+straight forward	pos
+go to the bank physically	neg
+easy to facilitate the transactions	pos
+go to my branch	neg
+easy process	pos
+must come go to the branch	neg
+easy procedures	pos
+distressful	neg
+stress free	pos
+efficient	pos
+pain in the neck	neg
+effective	pos
+takes numerous email and phone calls	neg
+efficiency	pos
+ineffective	neg
+will lead to efficiency	pos
+inefficiency	neg
+irritated	neg
+fully automatic	pos
+easy to submit claims	pos
+processes not indicated	neg
+fearless	pos
+process is a pain	neg
+easier process	pos
+tiresome	neg
+straight forward process	pos
+process of was smooth	pos
+inconvenient	neg
+inconveniencing	neg
+inconvenience	neg
+convenient	pos
+good tools	pos
+systems are efficient	pos
+troublesome	neg
+red tape	neg
+without prompting	pos
+long process	neg
+not complicated	pos
+automatic	pos
+complicated	neg
+no complications	pos
+simplicity of services	pos
+everything was great	pos
+every thing was good	pos
+every thing good	pos
+everything is good	pos
+everything is fine perfect	pos
+everything is fine	pos
+all fine	pos
+all is fine	pos
+all is well	pos
+nothing to complain about	pos
+nothing to improve	pos
+no complain at all	pos
+without any issues	pos
+no much complaints	pos
+no complaints	pos
+no complain so far	pos
+no complains whatsoever	pos
+cannot complain	pos
+can't complain really	pos
+not yet complained	pos
+no complain	pos
+no reason for complaint	pos
+no reason for complain	pos
+quality of work done and i liked it	pos
+work is excellent	pos
+everything was above average	pos
+everything was fine	pos
+everything was well done	pos
+everything went well	pos
+work done well	pos
+checked my car very good	pos
+ligament is good	pos
+contented with our services delivery	pos
+pleased	pos
+engineer who handled my car did a hood job	pos
+kari is good	pos
+i like the job	pos
+fair job	pos
+wonderful job	pos
+thumbs up	pos
+at this moment nothing much	pos
+good time at	pos
+everything was conducted excellency	pos
+all good	pos
+all ok	pos
+okay	pos
+they very obey	pos
+everything is took	pos
+everything was done well	pos
+everything is perfect	pos
+okay with everything	pos
+all was good	pos
+iso saw	pos
+i'm ok	pos
+everything perfect	pos
+everything is ok	pos
+be blessed	pos
+my car is now in perfect condition	pos
+good in what you do	pos
+keep up	pos
+keep it up	pos
+treatment was excellent	pos
+service done as i requested	pos
+no repeat jobs in the past	pos
+highest level of service	pos
+high standards	pos
+good standards	pos
+service standards	pos
+services were up to standard	pos
+got what i wanted	pos
+satisfied with our service	pos
+service is fare	pos
+our products are giving her the expected services	pos
+makes the service offered incredible	pos
+incredible services	pos
+service was pleasant	pos
+service is excellent	pos
+satisfied with the service	pos
+okay with services	pos
+not encountered any challenge concerning service delivery	pos
+quality of services that you offer	pos
+enjoying your services	pos
+no surprise	pos
+services are sufficient	pos
+service iso saw	pos
+work not done	neg
+work was not well done	neg
+misplaced the job card	neg
+no complains	pos
+did not align even after 4 repeats	neg
+walked out of your service	neg
+greatly done	pos
+effects could be checked at first	neg
+required work	neg
+poor ligament	neg
+ligament was much successfully	pos
+had to do a repeat ligament job	neg
+job want well done	neg
+contented with our services	pos
+experience outrages of service	neg
+you've served me better	neg
+service delivery was good	pos
+avoid damages	neg
+back for a repeat job	neg
+service was pleasing	pos
+never happened	neg
+all round service	pos
+balancing not done	neg
+fantastic services	pos
+was unable to do	neg
+thanks for your service	pos
+received average treatment	neg
+fantastic service	pos
+i was let down	neg
+impressed by your services	pos
+only for it to break down after one single day	neg
+satisfied with your services	pos
+service to aren was cut so we had to change provides	neg
+happy with there service	pos
+didn get the whole service	neg
+customer enjoys the services of our products	pos
+service could improve	neg
+yet to be served	neg
+service is cap	neg
+services are awesome	pos
+not offering good services	neg
+service is on point	pos
+non-service	neg
+serving was done well	pos
+terrible services	neg
+served well	pos
+service fulfilment	pos
+glad to find far less spasm and sinuses getting through	pos
+equipment should be in good working condition,	neg
+equipment needs to be in good condition,	neg
+some tools are not there	neg
+put a non smoking sign	neg
+have more entertainment	pos
+up to date equipment	pos
+health and safety not implements properly	neg
+got good tools and machines for services	pos
+check the parking for our vehicles	neg
+provide bags for carrying accessories	neg
+machines used are good	pos
+fix the ladies bathroom door	neg
+have a waiting area	neg
+provide customer seats	neg
+need chairs that have lawton rests	neg
+a good cushioned bench would be nice	neg
+lights at the reception area need to be adjusted	neg
+enjoyed stay	pos
+aren't enough charging ports	neg
+neat	pos
+have more than one kettle in the kitchen	neg
+love the branch	pos
+oil spill over on the floor	neg
+branch is so clean and organised	pos
+uncomfortable cringe seats,	pos
+improve the yard where work takes place	neg
+clean	pos
+expand the workshop	neg
+improved new look shop	pos
+comfortable place to wait	pos
+expand or premises	neg
+well maintained shop	pos
+enlarge the premises	neg
+great front office	pos
+the space is small	neg
+nice place	pos
+consider parking space	neg
+facility is modern	pos
+no sending machine here	neg
+conducing environment	pos
+provide customer amenities	neg
+i like the workshop	pos
+more sandwiched	neg
+good beverages provided	pos
+bring a coffee maker	neg
+loved the beverage	pos
+provide lunch	neg
+thanks for the lunch	pos
+broken lock	neg
+great spot	pos
+cringe seats	neg
+like the set	pos
+need some personal touch	neg
+personality	pos
+keep current customers profile	neg
+personal	pos
+better one on one	neg
+personalisation of services	pos
+be reminded when to make the next payment	neg
+am reminded when to make the next payment	pos
+up to date no payment has been done	neg
+so that we can use paybill numbers	neg
+would like our system to accommodate any amount	neg
+your filling machine is pathetic	neg
+introduce per month payment	neg
+be sending your riders with change	neg
+check on change	neg
+changes in payment option are not pleasant	neg
+improvement especially on premium resistance	neg
+add extra computers for payments	neg
+if payment once approved can be allocate promptly	neg
+payments would be better if integrated	neg
+allow half price of weekly to payment	neg
+could not provide ear receipt	neg
+bring equity bank pus	neg
+resistance	pos
+problem in making payment	neg
+happy with installment mode of payment	pos
+disbursement	pos
+problem with payment	neg
+payment is flexible	pos
+disperse	pos
+problem with paying	neg
+payment mode is flexible	pos
+reimbursement	pos
+still waiting for money	neg
+money was released	pos
+reimbursed	pos
+reduce the to deposit and the contract weeks	neg
+mode of payment is flexible	pos
+expand the length of the contract	neg
+flexible payment system	pos
+consider engaging bow	neg
+limited to one bank	neg
+existing approved garage	pos
+add more health care provides	neg
+relationships	pos
+include more dermatologists	neg
+ask hospitals not refuse treating a patient	neg
+include more specialist	neg
+add more hospitals	neg
+to my standards	pos
+meet my standards	pos
+products tailor to my needs	pos
+understand the nature of the customers business	pos
+understand my business	pos
+understand their clients business	pos
+customer tormented	neg
+customer at heart	pos
+work with customer	pos
+nice to have been asked	pos
+proposed additional products to enhance my driving experience	pos
+conduct employee risk profile surveys to determine employee risk tolerable	neg
+good work for checking where your clients are	pos
+research as to where the inter besides	neg
+excellent understanding of the business	pos
+would like customer care to offer satisfying solutions	neg
+keeps a call log for all customers both email and phone number for easy retrieved	pos
+data from previous visits	pos
+not had close working relation	neg
+improve on customer relations	neg
+lots of efforts to meet and interact just not management but members as well	pos
+customer agent relationship is good	pos
+customer orriented	pos
+relate to client	pos
+understanding me	pos
+provided a very unique but suitable policy for us	pos
+understand what is essential to me	pos
+brought solutions that help one achieve financial success	pos
+ready to offer solutions	pos
+understand our interests	pos
+trying to meet my needs	pos
+understand our interest	pos
+weighing down on my clients	neg
+you cater for	pos
+understand our desires	pos
+learning customer names will go a long way	neg
+you opened up to	pos
+understand our desire	pos
+your staff dressed me ad jenniffer where am joel	neg
+call you by your name	pos
+understand our needs	pos
+good customer relationship skill	pos
+understand customer interests	pos
+good client relationship skill	pos
+understand customer interest	pos
+suitable for us	pos
+understand customer desires	pos
+understand customer desire	pos
+expectations were met	pos
+understand customer needs	pos
+my expectations were exceeded	pos
+understand my interests	pos
+meets the expectations	pos
+understand my interest	pos
+understand my desires	pos
+never understand what i want	neg
+understood what i required	pos
+unto the expectation	pos
+understand my desire	pos
+never understand	neg
+meets expectations	pos
+understand my needs	pos
+even after giving instructions on the expectation	neg
+satisfies all custom demands	pos
+better understanding of our operating environment	neg
+certisfies all custom demands	pos
+know the customer	pos
+issue of must be fixed	neg
+trying to have an open case closed	neg
+complained numerous times	neg
+have to keep calling your technical team to sort out the problem	neg
+returned for repair a year ago up to now no communication	neg
+keep a customer posted on the progress of the issue	neg
+not gone to solve the problem	neg
+takes a very long time for a problem to be solved	neg
+long time to sort customers issues	neg
+not able to offer satisfying solutions at customers problem	neg
+did not get any assistance	neg
+refused to go for troubleshooting	neg
+issues should not take long	neg
+take a little more time to help the customer	neg
+malfunctioning though it had been repaired	neg
+i don't think it was repaired	neg
+there is no redress	neg
+my concerns were responded to	pos
+not fixed	neg
+fixed	pos
+give a permanent solution to my problems	neg
+gives a permanent solution to my problems	pos
+yet to be rectified	neg
+have a solution for me	pos
+repaired four times in the first year	neg
+issue was not addressed	neg
+excellent assistance	pos
+refused to go to solve the issue	neg
+already sorted	pos
+not sorted	neg
+help you sort out	pos
+have not been sorted	neg
+sorted out	pos
+has not been sorted	neg
+thank you for sorting	pos
+reluctant solving issues	neg
+was sorted	pos
+having issues with her product since installation	neg
+good troubleshooting	pos
+quick to respond when i need help	pos
+mulfunctions	neg
+corrected the fault	pos
+malfunctions	neg
+helping customer technical issues	pos
+a problem that has been persistent	neg
+solved the matter	pos
+asked so many times	neg
+haven't got any problem	pos
+reactionary	neg
+troubleshoot the issue	pos
+complain	neg
+complaint	neg
+addressed my concern	pos
+troubleshoot	pos
+not sorted the issue out	neg
+very quick to customers problem	pos
+case	pos
+act quickly at customers problem	pos
+didn't offer much of a solution	neg
+quick at solving	pos
+solution	pos
+issue not addressed	neg
+quick to solve	pos
+solve	pos
+drop the ball	neg
+issue sorted	pos
+repair	pos
+excuse	neg
+quick issue solving	pos
+issue resolution	pos
+issue addressed	pos
+resolved	neg
+issue resolved	pos
+first time to	pos
+first time experience	pos
+my first time	pos
+as a new customer from the welcome to being served	pos
+first interaction impressive	pos
+would make a second purchase	pos
+good for new customer	pos
+good for new person	pos
+doubtful at the beginning	neg
+good for new member	pos
+help me cope in the employment world	pos
+learnt clot	pos
+courses are excellent	pos
+they teach such relevant skill	pos
+training is good	pos
+mostly self learning	pos
+i learned so much	pos
+ensures that it entails whatever is needed for trainee	pos
+offers good teachings	pos
+found a learning system that focus on self development	pos
+intense training	pos
+i have really made progress due to the support of the trainer	pos
+offer more practical in your training	neg
+so many eye opening skill	pos
+very interactive and education training	pos
+program was eye opening	pos
+a great program	pos
+a good program	pos
+coaches should incorporate into the programme a seat down with candidates	neg
+i liked the training program	pos
+the way they issue out assignment is rather not organised	neg
+looking forward to implementing everything learnt	pos
+one can be bundles with lots of assignment at one point	neg
+a learning that goes beyond any measure	pos
+organize for regular training	neg
+i came out a better and more improved individual after going through the training	pos
+effectiveness of training	pos
+close later	neg
+open earlier	neg
+late hours	pos
+yet to experience any significant addition to the services offered	neg
+customer care should be available through out	neg
+incorporate more sector	neg
+have more sessions for certain programs	neg
+recommend adding a session or two on	neg
+consider equipping in more fields	neg
+introduce housing projects	neg
+introduce more comprehensive service	neg
+start offering rim straightening service	neg
+add brake disc swimming services	neg
+ligament should be possible in other outlets	neg
+add more mechanical  repair services	neg
+a service centre at every location	neg
+opening the engine manifold for sugar	neg
+you could fix more things	neg
+would have them fixed from here should the service be offered	neg
+if possible loan installments	neg
+give loans to customers	neg
+introduce offering loans	neg
+would be great to have all service by one provider	neg
+get involved in investments	neg
+increase the closing time	neg
+review opening hours	neg
+should open on public holidays	neg
+open on sunday	pos
+inconvenient branch time	neg
+convenient branch time	pos
+open on time	pos
+branch opens late	neg
+working time	neg
+office in sometimes shut	neg
+offer more services	neg
+expand your service	neg
+bring your services nearer	neg
+bring your services closer	neg
+engine wash would have been great	neg
+provide other services like car wash	neg
+adding in a car wash	neg
+get us car wash services	neg
+introduce crash services	neg
+introduce more mechanical service	neg
+introduce brake services	neg
+consider investing in in profit generation avenues	neg
+issues covered are limited	neg
+provide insurance for	neg
+plunging service	neg
+can't get all services from any branch	neg
+improve their network	neg
+hoping to have a branch at	neg
+create more service centres	neg
+bring your services closer to people	neg
+having several branches	pos
+in my hood	pos
+no branch no office	neg
+convenient locations	pos
+branch near home	pos
+you closed your branch in i have no access	neg
+extend to bungoma town	neg
+open up service to	neg
+network is really good	pos
+well established network	pos
+open branches	neg
+open more outlets	neg
+open more branches	neg
+open a branch	neg
+outlets limited	neg
+easy to find	pos
+repair for customer types from other manufacturers	neg
+improve on variety of services	neg
+more repair services	neg
+add engine services	neg
+include automechanics and repairs	neg
+make your service more inclusive	neg
+enrich the services	neg
+can not get all services from any branch	neg
+incorporate more	neg
+offer them with other services	neg
+get full service	neg
+if a whole package is given	neg
+prefer that they also do mechanical repairs	neg
+wider range of services would be ideal	neg
+increasing range of services	neg
+increase range of services	neg
+should do everything	neg
+consider other services	neg
+well diverse	pos
+need to be a one-stop shop	neg
+this is my stop shop service center	pos
+cater to one stop shop	neg
+everything under one roof	pos
+provide extra services	pos
+helpless service quality very dependent on who you happen to get	neg
+switch board to be picked	neg
+lines not working	neg
+lines are working	pos
+number not working	neg
+good services across all services	pos
+good service throughout branches	pos
+i order everyday	pos
+continue with what we are doing and not change the consistency	pos
+every department as mentioned is good	pos
+given to me severally	pos
+been impressed in the three sessions	pos
+provide quality service to me all through	pos
+not had an occasion that i have not had excellent service	pos
+as remained so over the intervening period of 5 years	pos
+never had any issue with you	pos
+great journey all through	pos
+never experienced any bad service	pos
+from the counter team to workshop team	pos
+better customer service compared to other branches	pos
+benchmark for other branches	pos
+benchmark for other service centres	pos
+i enjoy the times i spend here	pos
+from the front office to the service bay	pos
+good experience from the counter to the workshop	pos
+outstanding service received on several occasions	pos
+old client of your	pos
+services are standard	pos
+maintaining the same	pos
+regular	pos
+network are poor	neg
+network is very low	neg
+been here many times	pos
+interruption	neg
+have been doing my services here	pos
+downtime	neg
+goes on and off frequently	neg
+keeps failing	neg
+a more stable connection	neg
+minimal network down times	pos
+since i we started	pos
+growing together since	pos
+so far so good	pos
+for more than years	pos
+long standing customer	pos
+been along customer	pos
+long time account holder	pos
+been a member before	pos
+dealing with the company since	pos
+for as long as i have dealt with you	pos
+using the services since	pos
+for the last 4 years i am impressed	pos
+been a long-term customer	pos
+have been a long standing customer	pos
+been a customer for long time	pos
+been with you	pos
+know the company for several years	pos
+always been here	pos
+return customer	pos
+returning customer	pos
+long time customer	pos
+good working with you for almost	pos
+my fourth year with the company	pos
+third service am receiving	pos
+been your client for a couple of years	pos
+since joining the service has been implacable	pos
+quality in some areas i don't really enjoy	neg
+the service i get every time	pos
+quality very dependent on who you happen to get	neg
+i have been an old client	pos
+has changed its not like before	neg
+historically had a good team	pos
+not as good as the usually one	neg
+second time i am coming	pos
+was totally different from what i have been having	neg
+every time i have been here	pos
+keep all branches equal	neg
+over the years i have received	pos
+as we continue engaging then review will improve	neg
+commend on next visit	neg
+comment on next visit	neg
+been a customer for so long	pos
+last eight months things are terrible	neg
+dealing with you for long	pos
+have being a customer for long	pos
+for a long time	pos
+in the recent years the service has been very poor	neg
+your customer for sometime	pos
+service is not steady	neg
+all the time have been coming	pos
+each time i order the quality of food is different	neg
+never seen any failure	pos
+consistency	pos
+affecting consistent service delivery	neg
+not let me down once	pos
+consistent	pos
+inconsistent services	neg
+never been let down	pos
+irregular	neg
+good all the time	pos
+done several services	pos
+served well to date	pos
+helpful all the time	pos
+excellent service offered all the time	pos
+always enjoyed the service	pos
+reliability	pos
+a number of times my order has always been arriving late	neg
+reliable	pos
+served well whenever i require	pos
+great service so far	pos
+happy with the service so far	pos
+so far we have been given good service	pos
+yet to be let down	pos
+yet to fail	pos
+yet to disappoint	pos
+never failed us	pos
+never had a problem	pos
+because of past experience	pos
+happy customer every time i visit	pos
+all my experiences have been great	pos
+never been disappointed	pos
+never disappointed	pos
+never disappoint	pos
+never experienced after service mulfunctions	pos
+never experienced disappointment	pos
+never let me down	pos
+how long will it take to get my pension?	neg
+i only know the name but not the contents of services you offer	neg
+people assume you only do	neg
+yet to be conversant with your service	neg
+don’t understand your core areas of service	neg
+all a bit wobbly	neg
+so that we know who to deal with	neg
+being able to see what is going on	neg
+no idea of what else you have to offer	neg
+packages   offerings are not clear	neg
+help me know	neg
+how to go about it	neg
+directed to other offices	neg
+directing to other offices	neg
+hard to tell	neg
+not clear	neg
+not aware	neg
+no transparent	neg
+don't know about services	neg
+would like to understand	neg
+hard to understand	neg
+better coordination	neg
+don't even know what my car is insured for	neg
+taking me through the process	pos
+don't know what my policy certains	neg
+took me thou the whole process	pos
+not really sure how my pension is calculated,	neg
+took me through the process	pos
+very confused client	neg
+took me through every step	pos
+clarity	neg
+showed me step by step	pos
+difficult to know where to seek for information	neg
+taken thou the process	pos
+do not understand	neg
+spot on service	pos
+good orientation	pos
+needed help to select appropriate services	neg
+was helped to select appropriate services	pos
+require help to select appropriate services	neg
+got help to select appropriate services	pos
+would have been good to know	neg
+staff kept handing me over to the next	neg
+send you from one staff to another	neg
+to and fro	neg
+back and forth	neg
+whole process was just lonesome	pos
+happy with the whole process	pos
+refuse treating a patient	neg
+on the day of settlement;they refuse to pay	neg
+made to pay excess halfway	neg
+when i lost my phone they were able to deliver in a timely manner	pos
+refused to take care	neg
+when my windscreen broke, i got assisted immediately	pos
+refuse to pay claim	neg
+always get paid out	pos
+no complain with settling my bills	pos
+repudiated	neg
+settling of bills is on time	pos
+got my refund	pos
+delayed reimbursement	neg
+denied reimbursement of claims	neg
+reimbursement done	pos
+won’t replace	neg
+replacement given	pos
+replaced	pos
+due money	neg
+not received any money	neg
+prompt payment	pos
+undervalued	neg
+paid instantly	pos
+true to warranty terms	pos
+consider a warranty	neg
+warranty works	pos
+accident	pos
+better if it had a warrant	neg
+warranty incentive	pos
+take long to process claims	neg
+claim handled well	pos
+unsettled	neg
+claims settled well	pos
+claims served very well	pos
+guarantee	pos
+guarantee should be given	neg
+guarantee that works	pos
+accommodate clients with american express cards	neg
+card declined	neg
+looking for quality and i found it	pos
+greatly improved	pos
+a client can easily see a good difference	pos
+nothing could be better	pos
+company is solid	pos
+company is progressing well	pos
+company is well progressing	pos
+company is getting stronger	pos
+company is getting better	pos
+company is going far	pos
+company is stronger now	pos
+company is better now	pos
+company has improved	pos
+improvement from previous experience	pos
+spent less time compared to	pos
+tried these services with a different company and didn like	pos
+liked every moment	pos
+served in a very special manner	pos
+never been attended elsewhere like here before	pos
+applaud the service	pos
+do not want to associated with	neg
+want to associated with	pos
+looking forward	pos
+credibility	pos
+never want to deal	neg
+great stuff	pos
+star	pos
+great to be	pos
+value customers	pos
+like this company	pos
+champions of service	pos
+will definitely call you	pos
+fair compared to others	pos
+thinking of changing	neg
+fare compared to others	pos
+not competitive	neg
+more excellent way compared to other organizations	pos
+after doing comparison with other places there is reason to applause service	pos
+be competitive	neg
+prefer coming here	pos
+need to look at your competitors	neg
+compared to none	pos
+didn't keep up with the competition	neg
+compare well with	pos
+like you	pos
+i like what you people are doing	pos
+you guns are doing very well	pos
+place of choice	pos
+keep using a different bank	neg
+first choice	pos
+i wouldn wish to associate with this company	neg
+nice to be associated with	pos
+which others could not do	pos
+considered the leader in the market	pos
+respected as a thought leader	pos
+in a class of your own	pos
+one of the greatest firms	pos
+reputation	pos
+strong perception towards your company	pos
+discourage people from doing business with you	neg
+recommend to others	pos
+referral	pos
+will refer	pos
+have talked positively about you	pos
+will give reference	pos
+will tell many	pos
+will talk to my friends to come over	pos
+brought a friend	pos
+tell a friend	pos
+ask our friends to come here	pos
+bring more friends	pos
+will bring more people	pos
+will be spreading the word	pos
+spread the word	pos
+consider recommending	pos
+would never recommend	neg
+potential customers fear	neg
+nothing needs to change	pos
+room for improvement	neg
+left a smiling person	pos
+need to ensure your customers are happy	neg
+you ensure your customers are happy	pos
+not very happy	neg
+situation is favourable	pos
+confidence	pos
+confident	pos
+trusted	pos
+fantastic	pos
+impressed	pos
+unique	pos
+i must just say thank you	pos
+only place	pos
+a waste of space	neg
+only option	pos
+hate	neg
+good better best option	pos
+will come again	pos
+will come back	pos
+allow me to have more experience	neg
+will return	pos
+allow me to have moore experience	neg
+will visit again	pos
+nothing to compare with	neg
+a reason to come back	pos
+can't comment yet	neg
+will easily bring me back here	pos
+will always be your customer	pos
+a very short time to form any meaningful opinion	neg
+life member	pos
+still a member	pos
+pathetic	neg
+regular here	pos
+regret	neg
+will remain regular customer	pos
+forced to go to another	neg
+a regular customer	pos
+get referral to go elsewhere	neg
+proud customer	pos
+switch to another company	neg
+because this is the only place	pos
+always my to go to	pos
+i we go no where else	pos
+never ever	neg
+nothing can repair	neg
+always come here	pos
+never again	neg
+ready to come for more	pos
+hell	neg
+keeps me coming back	pos
+never again use their services	neg
+keep coming	pos
+only come here	pos
+i only bring my car here	pos
+chances are you'll disappoint	neg
+working with you again	pos
+each time i order the'to what i'll order	pos
+will not order again	neg
+never order again	neg
+will order again	pos
+didn renew	neg
+renewed	pos
+wont renew	neg
+will renew	pos
+look forward to another experience	pos
+i believe this is how you're	pos
+promise to be back,	pos
+always back	pos
+am a victim	neg
+always be back	pos
+disappointing	neg
+back again	pos
+disappointed	neg
+experience has been great	pos
+decided ever to be coming here	pos
+brand	pos
+never ever come back	neg
+need to convince customers of your credibility	neg
+you convince customers of your credibility	pos
+have limited experience with	neg
+can we get to know more about you	neg
+happier if you created more awareness	neg
+do not have much knowledge about the company	neg
+add more sign boards	neg
+erect a more elaborate billboard	neg
+just getting to know about you	neg
+never heard about you	neg
+well known	pos
+tell me more of you	neg
+never heard of any negative issues against	pos
+still new in this town	neg
+everyone talks about you	pos
+little work on or	neg
+everyone talks about it	pos
+great public relation	pos
+enhancing proper public relation	neg
+good public relation	pos
+need more sensitisation	neg
+good or	pos
+high level of or	pos
+like the or	pos
+need more time to give proper feedback	neg
+smart or	pos
+never come to introduce your self	neg
+you have not marked yourself	neg
+consider advertising	neg
+send promotion email	neg
+be sending promotion email	neg
+improve on publicity	neg
+improve on marketing	neg
+more marketing	neg
+do more in terms of marketing	neg
+great marketing	pos
+long involving process	neg
+price changed later	neg
+price of changed at the time of paying	neg
+quote was low	pos
+high quotation provided	neg
+quotation was low	pos
+almost got charged differently	neg
+received quotation on time	pos
+did not get the quotation	neg
+received timely quotation	pos
+during involving i was frustrated	neg
+gave quotation	pos
+can't deposit funds through at	neg
+very few arms	neg
+get your own at	neg
+lack of at	neg
+agent did not explain to her clearly	neg
+agent didn't inform	neg
+agent did not put it clearly	neg
+agent did not got to check	neg
+agent has refused to go to solve	neg
+agent did not pick to return customer	neg
+agent not active	neg
+agents should have a meeting with their customers after every month	neg
+agent charged for troubleshooting	neg
+agents are harassing customers	neg
+agent reclaimed the product	neg
+agent never responded	neg
+agent has not responded	neg
+complaint about agent	neg
+complained about agent	neg
+agent delay	neg
+agents is not honest	neg
+fault of the agent	neg
+agent's fault	neg
+the fault had been done by the agent	neg
+unhappy with the agent	neg
+lack of professionalism of agents	neg
+agent attend to him very well	pos
+agent who installed refused to go for troubleshooting	neg
+agent is very quick at helping customer	pos
+agent has not gone to solve the problem	neg
+agent always help	pos
+agent is not offering any help	neg
+agent is not honoring his promise	neg
+agents takes a very long time to sort customers issues	neg
+agent is doing a good job	pos
+agent has not sorted the issue out	neg
+agent is doing great job	pos
+agent is not delivering	neg
+happy with the services the agent gives	pos
+brokerage service has room for improvement	neg
+agents are very active	pos
+performance of the agents is recommendable	pos
+the agent is always available	pos
+access to a sharp enter network	pos
+will offer the client more than they asked for	pos
+innovation	pos
+innovative	pos
+one feels like a boss	pos
+call over the weekend even when they were off work	pos
+exceeded my expectations	pos
+surpassing expectations	pos
+went over board to find a solution	pos
+going out of the way	pos
+received over and beyond	pos
+go beyond normal routine	pos
+beyond call of duty	pos
+go above and beyond	pos
+nothing so special	neg
+delivers beyond expectations	pos
+extra mile	pos
+ready to go the extra mile	pos
+need to deliver after finishing the repairs	neg
+more and more reports	neg
+minimize the number of messages we send	neg
+need to continuously providing information	neg
+be continuously providing information	neg
+continuously providing information	pos
+there was a lot of correspondence	pos
+increase the frequency to	neg
+communication should be more frequent	neg
+communication can be sent to the participant regularly	neg
+communication is not very regular	neg
+information is sent regularly	pos
+keep getting messages	neg
+too many texts	neg
+so many texts	neg
+periodic updated	pos
+detailed information	pos
+delay in getting code	neg
+communicate early	neg
+communicate earlier	neg
+giving report as earlier	neg
+receipt of statements promptly	pos
+provide information earlier	neg
+liveliness of the communication is very good	pos
+communicated to me took ages	neg
+timlyness of the communication is very good	pos
+interact in real-time	neg
+prompt reminder	pos
+make interactions faster	neg
+shared promptly	pos
+too long to get communication	neg
+communication is puncture	pos
+delays to communicate	neg
+timely statements	pos
+timely advice	pos
+communication is always timely	pos
+communication needs to be timely	neg
+timely communication	pos
+provide the information quicker	neg
+information is prompt	pos
+provide information on payment earlier	neg
+improve the communication speed	neg
+prompt and useful information	pos
+not communicated in time	neg
+communication is timely	pos
+would appreciate receipt of statements promptly	neg
+communication can take a very long time	neg
+communication on time	pos
+quicker communication	neg
+communication is ok & timely	pos
+communication needs to be quicker	neg
+quick prompt communicate communication	pos
+communicate faster	neg
+faster way of communicating	neg
+shallow	neg
+gone in more depth	neg
+depth of of the discussion could be improved	neg
+improve with a more interactive format	neg
+more interactive to keep audience's attention	neg
+keep my information confidential	pos
+keeping my information confidential	pos
+important to confirm the accounts	neg
+information may fall in to the hands of con men	neg
+fraud	neg
+records are intact	pos
+more of video tutorials	neg
+not able to access the link	neg
+give us a pension.calculated	neg
+pp can be more use friendly	neg
+unable to log on to your pp	neg
+webster needs to be worked on	neg
+an online platform that will allow for viewing of online statements	neg
+an online application to monitor the fund	neg
+online system being down	neg
+had to come in person	neg
+create social media platform	neg
+accepting my details from mobile	pos
+not able to access my	neg
+unable to access my	neg
+able to access my updated deposit	pos
+quality of digital channels	pos
+try to communicate	neg
+means of communication with customers is available	pos
+despite multiple communication	neg
+difficult to get service through telephone	neg
+get a working office number	neg
+phone exchange is not connecting	neg
+don't receive text messages	neg
+received text messages	pos
+don't receive any text messages	neg
+received sums modifications	pos
+not been receiving messages	neg
+not been receiving calls	neg
+numbers provided on the webster aren't working	neg
+consider using written documents	neg
+communicating efficient way	pos
+effectiveness of channels	pos
+i was told the rider was five minutes away	neg
+is not as i saw it on the webster	neg
+when i know the position of	neg
+improve on name tags	neg
+need to call more than once to get the required information	neg
+i believed you	neg
+convinced me	pos
+was made to believe	neg
+i like that out of stock means all branches dont have the item	pos
+difficulty in tracing the offices	neg
+what are the terms and condition	neg
+not in the terms and conditions	neg
+did not see in the terms and conditions	neg
+overlooked	neg
+do not require any follow up questions	pos
+campaigns don't add up	neg
+dont get straight forward answer	neg
+comprehensive answers	pos
+didn get straight forward answer	neg
+got straight forward answer	pos
+provide straight forward answer	pos
+gives straight forward answer	pos
+need straight forward answer	neg
+given straight forward answer	pos
+does not fully satisfy the queried one needs	neg
+language barrier	neg
+not able to interpret	neg
+able to interpret information sent	pos
+seeks assistance on information interpretation	neg
+able to interpret the any information send	pos
+legible	neg
+not legible	neg
+form was not clear	neg
+i like they way they have arranged the statement	pos
+statement is not clear	neg
+information given was very professional	pos
+never gets any concrete information	neg
+information shared is self explanatory	pos
+use sticks for service indicator	neg
+useful information	pos
+need to explain everything in layman's terms	neg
+they explain everything in layman's terms	pos
+be clearer	neg
+more clarity	neg
+give clearer views	neg
+staffs give detailed information when a customer need clarity	pos
+give clear views	neg
+quality information	pos
+improve on into	neg
+proper information	pos
+communication needs to be more detailed	neg
+spot on into	pos
+reports to be more detailed	neg
+reports are detailed	pos
+reports need more detail	neg
+detailed reports	pos
+information needs to be more detailed	neg
+details of everything that we need to know	pos
+more detailed information	neg
+information is not easy to understand	neg
+information is easy to understand	pos
+i would like easy to understand information	neg
+its easy to understand information	pos
+information given is highly sufficient	pos
+succinct communication	pos
+succinct information	pos
+communication needs to be succinct	neg
+information needs to be succinct	neg
+straight to the point	pos
+answers to all queried	pos
+ready to answer all my questions	pos
+was answered all my questions	pos
+always answer the question	pos
+great answers	pos
+answering questions when need be	pos
+not answered	neg
+answered	pos
+enlighten	neg
+articulate	pos
+conduct more financial clinics	neg
+better education	neg
+learned information	pos
+can do better on member education	neg
+learned details	pos
+regular education	neg
+learnt information	pos
+organizing regular member education	neg
+learnt details	pos
+continuous education	neg
+gained a lot of knowledge	pos
+very little member education	neg
+good education	pos
+be more practice in educate	neg
+never received one on one interaction or education	neg
+education	pos
+educate	neg
+educated	pos
+lack confidence in explaining	neg
+insightful	pos
+if your staff made a deliberate effort to explain	neg
+conversant with explain	pos
+couldn't be gathered to explain	neg
+spend the time needed to explain	pos
+time taken to explain	pos
+without any explanations	neg
+taking time to explain	pos
+didn't take me through the policy correctly	neg
+in-depth explanation	pos
+did not get explanation	neg
+explanation	pos
+transparent explanation	pos
+need explanation	neg
+clear explanations	pos
+no substantial explanation was given	neg
+didn explain	neg
+good explanation	pos
+dont explain	neg
+i have not had any challenges since i joined vuna pla	pos
+not had any challenges	pos
+communication irregular	neg
+not had challenges	pos
+reducing charges	neg
+Good and quality	pos
+no consistency	neg
+good	pos
+in less than Min which is perfect	pos
+work on	neg
+excellent	pos
+pretty good	pos
+resonates	pos
+worst	neg
+barrier	neg
+The communication in irregular	neg
+have not had any challenges	pos
+Good and quality services	pos
+reducing alignment an balancing charges	neg
+Availabilty of stock was wanting	neg
+there is no consistency	neg
+services are good	pos
+usually receive my order in less than 30 Min which is perfect	pos
+find the meals abit expensive especially on the delivery fee	neg
+if the menu could be expanded	neg
+work on online	neg
+work on  of customer statements	neg
+Customer service is excellent	pos
+your interest on pensions has been pretty good	pos
+value for money resonates	pos
+Your communication is just the worst	neg
+communication barrier	neg
+how advantageous it is when putting a recommended pressure to tyres	pos
+impressed with workshop guy who advised me	pos
+thanks for the rd service	pos
+makes of doubt your statements	neg
+to correct member statements	neg
+now do you people keep your records	neg
+create time for meeting with retirees	neg
+never interacted with your staff	neg
+have not interacted with the staff	neg
+haven't interacted with you	neg
+not interacted with you staff	neg
+consider having an in-house mechanic	neg
+one technician only doing so much	neg
+waiting also the visit of the fundi	neg
+havent met you physically	neg
+agent is not reachable	neg
+never picks calls	neg
+employ an extra mechanic staff	neg
+mostly interacted with	pos
+staff are punctual	pos
+add cashiers	neg
+easily accesible	pos
+always there for consulation	pos
+free to seek advise anytime	pos
+prices reducejd	neg
+price to be subsidised	neg
+middle class should be considered in terms of pricing	neg
+competitive pricing would attract more people	neg
+encourage competitive pricing	neg
+high pricjng	neg
+be pocket friendlier	neg
+lower pricing	neg
+competetive pricing	pos
+high pricing	neg
+service pricing	pos
+introduce more sandwiches and wraps	neg
+more aerospray air fresheners	neg
+adding car perfumes	neg
+options for service parts	neg
+add maxxis to the tyre brands	neg
+more japanese tyres	neg
+options	pos
+review the buffet menu	neg
+have a wider range of tyres	neg
+brands	pos
+have more options on spare parts	neg
+get paper ones or re-use able containers	neg
+don't like plastic containers	neg
+stop giving plastic straws	neg
+more stronger containers	neg
+packaging has improved	pos
+containers were squashed	neg
+radio got spoilt	neg
+design the tv to have more working hours	neg
+hours we have given to view tv is less	neg
+not all zuku stations can be viewed	neg
+more tv stations	neg
+have more kids channel	neg
+list of channels in the fliers but not available in the tv	neg
+black line appearing onthe bottom side of his tv	neg
+tv package should only have the panel and the screen for customers	neg
+tv has been malfunctioning	neg
+a stand for the tv to be included in the package	neg
+requested a bigger tv	neg
+accommodate a dvd	neg
+accommodate dvd	neg
+extension cables for the lamps	neg
+increase the size of tprch	neg
+splitting of the lamps services from the tv services	neg
+battery should light for mores hours	neg
+increase the length of the lamp cables	neg
+length of the power cables to be longer	neg
+increase the charging outputs	neg
+chargers should be improved	neg
+would like the charging system to be upgraded because it is not stable	neg
+has not experienced any challenge with azuri pruduct	pos
+good cocktails	pos
+good coctails	pos
+the icing part was also too dry	neg
+pancakes were great today	pos
+enjoyed my samosas today	pos
+really like your thai chicken noodle	pos
+very hard and the icing is dry	neg
+sauces are bland	neg
+blt which was very poor.more bread than blt	neg
+food is always delicious and tasty	pos
+everything is functioning well	pos
+everything in the package is functioning	pos
+every item in the package is functioning perfectly	pos
+wipers are of good quality	pos
+wipers are if good quality	pos
+switching system need to be worked on	neg
+doesn't play most cds and dvds	neg
+durable product	pos
+fake products	neg
+fake parts	neg
+products are rigid and inflexible	neg
+have a bit more greens on the side	neg
+portioning is very little	neg
+portioning wasokay	pos
+have not received promotional items from you	neg
+consider esteemed custormers	neg
+better discout	neg
+old tyres should be bought from customers	neg
+include wheel alignment in the fitting of purchased tyres	neg
+event informational	pos
+include bitings  one drink in entrance fee	neg
+pays alot but not enjoying the product	neg
+imp rove value for money	neg
+real value to my monies	pos
+find out a way of paying out some devidend	neg
+tcode should be valid till midnight	neg
+my money was witheld without interest	neg
+i'm benefitting nothing	neg
+saving us on our premiums	pos
+tv has enabled the entire family to be informed	pos
+level of insurance premiums is always a concern	neg
+tcode should be valued till midnight	neg
+review the premiums	neg
+give us incentives	neg
+performance of the kids in school has improved	pos
+give bonus and incentives	neg
+no incentives	neg
+cover at affordable rates	pos
+my bussiness business has grown	pos
+premiums on the higher side	neg
+fx rates are poor	neg
+sometimes food isnt ready or finished	neg
+store more windscreen wipers	neg
+lack of enough vw products	neg
+bring more heavy-duty portable compressors	neg
+tyres i wanted were not available	neg
+bridgestone tyres are rare to find in your stores	neg
+would wish to see suv spare wheel covers	neg
+stock more spairs	neg
+fasten approvals	neg
+next time order will be placed asap	neg
+consider adding more bays	neg
+take a while to be processed	neg
+waste of tym	neg
+no waste of tym	pos
+time taken should imrove	neg
+faster approvals	neg
+served though belatedly	neg
+food took 3hrs to arrive	neg
+deloivery time is high	neg
+crap when it comes to delivery	neg
+deliveries takes time	neg
+deliveries take time	neg
+had to revisit the branch a couple of times	neg
+take bookings	neg
+diagnostics machine is really mediocre	neg
+digitise	neg
+systems are inefficient	neg
+streamline process	neg
+without much hustle	pos
+it was not a hustle	pos
+stressful	neg
+effecient	pos
+takes numerous emails and phone calls	neg
+effeciency	pos
+inefficient	neg
+fully automated	pos
+seamless	pos
+inconvinient	neg
+inconveniences	neg
+inconvinent	neg
+systems are inefficient	neg
+automated	pos
+no compain so far	pos
+no compain	pos
+alignment is good	pos
+kazi is good	pos
+kudos	pos
+everything was conducted excellently	pos
+they very okey	pos
+evrything is ook	pos
+everything was well d0ne	pos
+okay with everthing	pos
+satisfied with our servicer	pos
+makes the service offered credible	pos
+credible services	pos
+no surprises	pos
+deffects could be checked at first	neg
+required rework	neg
+poor alignment	neg
+alignment was much successfully	pos
+had to do a repeat alignment job	neg
+job wasnot well done	neg
+experience outages of service	neg
+fanatic service	pos
+didnt get the whole service	neg
+service is crap	neg
+servicing was done well	pos
+glad to find far less spam and viruses getting through	pos
+health and safety not implemented properly	neg
+machines mnazotumia pia ni mzuri	pos
+need chairs that have laptop rests	neg
+uncomfortable cringy seats,	pos
+expand ur premises	neg
+no vending machine here	neg
+conducive environment	pos
+more sandwiches	neg
+cringy seats	neg
+like the setup	pos
+insurance expiry	pos
+reminder expiry	pos
+bespoke	pos
+personalize	pos
+keep current customers profiles	neg
+personalise	pos
+more one on one follow ups	neg
+your billing machine is pathetic	neg
+would like to get tv package before completing the other contract	neg
+changes in payment options are not pleasant	neg
+improvement especially on premium remittance	neg
+if payment once approved can be allocated propmtly	neg
+allow half price of weekly tv payment	neg
+could not provide etr reciept	neg
+payout	pos
+bring equity bank pos	neg
+remittance	pos
+disburse	pos
+reimburse	pos
+reduce the tv deposit and the contract weeks	neg
+consider engaging bmw	neg
+add more health care providers	neg
+products tailored to my needs	pos
+customer oriented	pos
+centrism	pos
+centric	pos
+relstionships	pos
+research as to where the intern resides	neg
+your staff adressed me ad jenniffer wheres iam joel	neg
+good customer relationship skills	pos
+good client relationship skills	pos
+upto the expectation	pos
+satisfies all custorm demands	pos
+solves the matter	pos
+solution oriented	pos
+unresolved	neg
+farst time to	pos
+first interaction impresive	pos
+event coordinated	pos
+learnt alot	pos
+they teach such relevant skills	pos
+ensures that it entails whatever is needed for trainees	pos
+offer more practicals in your training	neg
+so many eye opening skiills	pos
+very interactive and educating training	pos
+the way they issue out assignements is rather not organised	neg
+incorporate more sectors	neg
+start offering rim sraightening service	neg
+add brake disc skimming services	neg
+alignment should be possible in other outlets	neg
+opening the engine manifold for subaru	neg
+introduce carwash services	neg
+consider investing in in profit generating avenues	neg
+have a vw mechanic in your garage	neg
+repair for customer tyres from other manufacturers	neg
+bettrr customer service compared to other branches	pos
+networks is very low	neg
+interruptions	neg
+since joining the service has been impeccable	pos
+not as good as the usuall one	neg
+anytime i check in	pos
+reliabllity	pos
+a number of times my order has alwas been arriving late	neg
+unreliable	neg
+relaible	pos
+never dissapointed	pos
+never been dissappointed	pos
+no transparency	neg
+don't know what my policy pertains	neg
+took me thru the whole process	pos
+taken thru the process	pos
+whole process was just owesome	pos
+repudated	neg
+won’t teplace	neg
+undervalue	neg
+tried these services with a different company and didnt like	pos
+you guys are doing very well	pos
+i wouldnt wish to associate with this company	neg
+referrals	pos
+would never recommed	neg
+get referrals to go elsewhere	neg
+each time i order tha'ts what i'll order	pos
+didnt renew	neg
+dissappointed	neg
+little work on pr	neg
+better customer pr	neg
+good pr	pos
+high level of pr	pos
+like the pr	pos
+smart pr	pos
+you have not marketed yourself	neg
+send promotional emails	neg
+be sending promotional emails	neg
+long invoicing process	neg
+high quaotation provided	neg
+recived quotation on time	pos
+recived timely quotation	pos
+during invoicing i was frustrated	neg
+can't deposit funds through atm	neg
+very few atms	neg
+get your own atm	neg
+lack of atm	neg
+agent is unavailable	neg
+access to a sharp mentor network	pos
+thank you for staying uptil so late	pos
+timeliness of the communication is very good	pos
+communication is punctual	pos
+communication is tymely	pos
+give us a pension.calculator	neg
+app can be more use friendly	neg
+unable to log on to your app	neg
+website needs to be worked on	neg
+accessing my details from mobile	pos
+means of communication with customers is unavailable	neg
+received sms notifications	pos
+numbers provided on the website aren't working	neg
+is not as i saw it on the website	neg
+overbooked	neg
+didnt get straight forward answer	neg
+does not fully satisfy the queries one needs	neg
+illegible	neg
+use stickers for service indicators	neg
+giver clearer views	neg
+improve on info	neg
+spot on info	pos
+answers to all queries	pos
+was unswered all my questions	pos
+be more proactive in educat	neg
+proactive in educating	pos
+educating	pos
+conversant with explaing	pos
+couldn't be bothered to explain	neg
+didnt explain	neg
+good explaination	pos
+worst communcation	neg
+communication with the customer is absolut excellent	pos
+didnt communicate transaprently	neg
+doesn't communicate transaprently	neg
+didnt communicate transparently	neg
+didnt disclose fully	neg
+fully discloser would have been vital	neg
+appear to be very transparent in disclosures	pos
+communicates with transparency	pos
+communication isnt transparent	neg
+good customer communication skills	pos
+didnt communicate clearly	neg
+not clear inforamtion	neg
+messages sent arent understood	neg
+messages we do send him he at times doesnt understand,	neg
+misguided	neg
+never misguides	pos
+never misguided	pos
+would have been nice to see the full kichen menu	neg
+keep on showing and updating	pos
+should put it on the website	neg
+notification message help	pos
+thanks for the notifications	pos
+would like notification	neg
+congrats for the monthly notifications	pos
+no longer receive notifications	neg
+didnt alert me	neg
+more alerts	neg
+there is no forthcomming information	neg
+not regular with updates	neg
+need regular updates	neg
+get regular updates	pos
+more updates	neg
+embark in continuous updates	neg
+didn't get updates	neg
+need to get updates	neg
+i get updates	pos
+need continuous updates	neg
+get continuous updates	pos
+did not share options	neg
+share options	neg
+shared options	pos
+informative	pos
+good info	pos
+reciept is not available	neg
+receipt is unavailable	neg
+reciept is unavailable	neg
+reciept is available	pos
+form is unavailable	neg
+card is unavailable	neg
+statement is unavailable	neg
+records are unavailable	neg
+record is unavailable	neg
+deliverables are unavailable	neg
+documents are unavailable	neg
+reports are unavailable	neg
+report is unavailable	neg
+paper is unavailable	neg
+reciept not provided	neg
+never provided with reciept	neg
+provide reciept	neg
+provided with reciept	pos
+never got reciept	neg
+didnt get reciept	neg
+didnt get form	neg
+didnt get card	neg
+didnt get statement	neg
+didnt get records	neg
+didnt get deliverables	neg
+didnt get documents	neg
+didnt get reports	neg
+didnt get paper	neg
+dont get reciept	neg
+gave me reciept	pos
+did not get reciept	neg
+got reciept	pos
+inaccuracy of fund management	neg
+inaccuracy of diagnosis	neg
+inaccuracy of delivery	neg
+inaccuracy of service	neg
+deducted twice	neg
+information that is credible	pos
+website shows something different	neg
+not happy with the way	neg
+should not in crb	neg
+inaccuracy of details	neg
+not credited in my statement	neg
+takes a long time to respond	neg
+need to improve on time delivery	neg
+should improve on time delivery	neg
+had to wait,	neg
+food took long to arrive	neg
+job wasnot well done,	neg
+not offering good services,	neg
+chargeable	neg
+cost  is too high	neg
+denied reimbursement	neg
+not got refund	neg
+furstrated with the services	neg
+hate them	neg
+pathetic  services	neg
+straight forward answer	neg
+kept me in circles	neg
+misdirected	neg
+did not inform	neg
+did not received reminders	neg
+ process is a pain	neg
+ frustrating	neg
+frustrated	neg
+ glitch	neg
+system glich	neg
+ without much hustle	neg
+care	neg
+customer	neg
+pace	neg
+snail	neg
+while	neg
+service	neg
+hasten	neg
+unnecessarily	neg
+improve	neg
+deloivery	neg
+deliver	neg
+deliveries	neg
+paperwork	neg
+limitations	neg
+pain	neg
+frustrating	neg
+services	neg
+offering	neg
+crap	neg
+terrible	neg
+payment	neg
+problem	neg
+paying	neg
+understand	neg
+took me through	pos
+clear information	pos
+affordability	pos
+affordable	pos
+corrected the  fault	pos
+issue sorted our quickly	pos
+been along  customer	pos
+replacement	pos
+got a warranty	pos
+claims	pos
+all is good	pos
+will return	pos
+best option	pos
+happy customer	pos
+good customer experience	pos
+customer care	pos
+amazing customerservice	pos
+loyal customer	pos
+impress work especial technician	pos
+seasonable efficient service	pos
+interest customer service	pos
+would recomend discount rat	neg
+customer care service vehicle service top notch	pos
+incessant smile serve u	pos
+real value monies	pos
+lovely place amaze staff	pos
+organise staff quality service	pos
+please consider reduce	neg
+find rather expensive	neg
+nice coffee kisii branch offer	pos
+incessant give permanent solution problem quality product	pos
+enjoy service ready come	pos
+most interact zamara staff matter avc plan get comfortable	pos
+incessant serve comfortable freddy	pos
+incessant impress	pos
+repeat client	pos
+response come apology	neg
+premise fair	pos
+recommend	pos
+would recommend park fee mall effect auto	pos
+foremost staff hospitality welcomeness	pos
+happy associate want research	pos
+speed service	pos
+service excellent convenience place	pos
+im indeed happy client	pos
+excellent customer service janet oduor	pos
+staff exhume great confidence also decide early full service	pos
+today first time auto express	pos
+happy awesome	pos
+thanx team	pos
+satisfy come back	pos
+excellent customer service knowledge staff	pos
+wonderful experience place	pos
+extreme happy moment	pos
+sound friendly staff	pos
+first time experience impress	pos
+would consistent forget appropriate fitting tool get job do	neg
+impress reception feedback	pos
+reduce price spark plug	neg
+comfortable recieved staff friendly technician sound job	pos
+please technology team resolve matter quick	pos
+great staff service emphatic come	pos
+delivery time today improve	pos
+food real amaze	pos
+delivery time improve today hope future deliver within hour	pos
+food quite delicious food arrive early today	pos
+customer happy product far day since installation promise bring u customer	pos
+customer satisfy service would	pos
+fair portion	pos
+customer happy product	pos
+customer satisfy service suggest bring product	pos
+customer happy service continue refer customer	pos
+new customer two week	pos
+customer okay service suggest payment base daily basis	pos
+customer grateful product promise recommend customer	pos
+sweetener extra discount quote price	pos
+make one happy customer	pos
+schola sammy entire team thank	pos
+customer appreciate product give expect service radiant_energy	pos
+staff terrific sound	pos
+recommend promotion	pos
+comfortable thank	pos
+washandled respect quick	pos
+customer happy satisfy far recommend customer	pos
+say agent attend comfortable even though come	pos
+customer request customer care avail need assistance	pos
+customer would recommend customer since service offer product sound quality	pos
+never get concrete information progress tv customer care	neg
+happy customer encounter issue far sometimes seek assistance information interpretation	pos
+customer satisfy service say servis get	pos
+real give sound pr customer satisfaction	neg
+query respond judge regular communication delight customer	pos
+communication incessant seasonable regard stand retirement plan	pos
+service sound fast	pos
+great team	pos
+happy rat competitive	pos
+incessant provide	pos
+nice coffee sound ambience	pos
+please reduce	neg
+serve comfortable thank	pos
+give boastful discount repeat customer like	neg
+thank guy	pos
+free service do car make come back	pos
+wonder go faulty please consider	neg
+hand professional staff	pos
+ok today	pos
+welcome staff keep	pos
+improve communication company agent	neg
+friendly high efficient staff	pos
+correct member statement poor response user request	neg
+offer practicals	neg
+look forward implement everything learn internship programme	pos
+like train program interactive practical	pos
+thank much yusudi make well person	pos
+sound experience room grow communication	pos
+feel though get full value money marketer	neg
+appreciate technology skill involve	pos
+give continual use laptop train program	pos
+believe come well improve individual go	pos
+enjoy partial yusudi	pos
+excite interactive educate train open eye quite	pos
+sound job love program	pos
+love experience	pos
+proffesional service	pos
+cost could beter	neg
+sound n fast	pos
+great team deed	pos
+improve signal customer	neg
+may god bless serve clientele	pos
+guarantee service top	pos
+recommend friend come autoxpress	pos
+offer excellent service customer	pos
+great experience saturday afternoon	pos
+staff welcome knowledge	pos
+cheap price offer	neg
+awesome staff	pos
+nice workshop guy	pos
+guarantee policy real sound	pos
+friendly profession answer query love beverage	pos
+efficient helpful staff	pos
+much okay service	pos
+price shock competitive compare monroe oriel	neg
+staff attentive client concern	pos
+soldier gate name shem quite rude	neg
+nice job reception staff bright help full workshop team helpful	pos
+great experience mombasa road	pos
+great experience auto express	pos
+first time service	pos
+take short time quality service sound	pos
+incessant come back also recommend service center friend	pos
+shill receive u comfortable reception	pos
+thank forn great experience mercy brenda zipporah team	pos
+please improve yard	neg
+true warranty term	pos
+happy get faulty	pos
+effective excellent service	pos
+price spark plug bite expensive	neg
+check another station come comfortable service customer service	pos
+check another station come comfortable	pos
+discount give	neg
+excellent workmanship courteous staff thank see next time	pos
+cost puncture	neg
+specific like	pos
+knowledge stuff friendly	pos
+quick informative service	pos
+work excellent	pos
+like quick service give cool customer service concern	pos
+experience today awesome	pos
+satisfy include coffee	pos
+whenever walk kisii autoxpress incessant receive warm reception	pos
+understand customer need	pos
+incessant listen advice product service	pos
+love service keep customer service	pos
+sound customer service reception mechanic	pos
+team quite friendly write real show defective part need replacement	pos
+speed enhance	neg
+luxurious quality work excellent customer care service work professionalism	pos
+informative staff comfortable encounter	pos
+make understand	pos
+admin staff improve	neg
+proper attention detail staff go	pos
+proper attention detail staff go extra mile advisory service	pos
+enjoy coffee	pos
+recommend friend visit autoxpress	pos
+great improvement previous experience sound work	pos
+food great service perfect	pos
+problem delivery	neg
+food great main problem delivery take long food arrive	pos
+food incessant delicious tasty thats keep come back	neg
+incessant great experience autoexpressngeneral mathenge branch	pos
+like staff ngugi thorough sheila helpful	pos
+request price reduce least allow enjoy service	neg
+main issue delivery time	neg
+make friendly	neg
+would order anytime anyday	pos
+even recommend friend order like food also	pos
+thumb team	pos
+agent charge troubleshoot	neg
+incessant satisfy personalise attention	pos
+service excellent service part increase cater	pos
+overall great experience pleasant professional	pos
+kind consider return job within week allow customer outside	pos
+kind consider return	pos
+staff kind helpful term advice	pos
+first time attendance impress service donne	pos
+happy also happy future improvement	pos
+happy june sale counter educate	pos
+customer friendly quick service response	pos
+attendant engage friendly	pos
+delight competency staff	pos
+incessant receive excellent service	pos
+incessant use dunlop person car	pos
+improve variety	neg
+agent explain clear payment	pos
+need help	neg
+pathetic name	neg
+jack also extreme fast fit	pos
+first time experience guarantee work kenya	pos
+happy service sale	pos
+impress definately recommend family friend	pos
+environment fair	pos
+request price reduce	neg
+request daily payment	neg
+customer incessant get excellent service	pos
+request price reduce encourage low income earner	neg
+reduce price slight	neg
+happy excellent customer service	pos
+suggest introduction daily payment	neg
+suggest introduction daily payment price reduce	neg
+customer see problem product suggest price reduction entice customer	neg
+would appreciate discount	neg
+fair job satisfy	pos
+quality efficiency work	pos
+get seasonable service sound advice	pos
+service customer care satisfactory	pos
+friendly staff quick service real impress	pos
+request price subsidise	neg
+brightness adequate payment	pos
+brightness enough agent great job	pos
+brightness enough	pos
+say light bright everything sound	neg
+say light bright	pos
+comparison place reason applaud service	pos
+consider minimize time take	neg
+great assistance staff	pos
+agent delay provide service request introduction daily payment	neg
+leave happy client kudoz	pos
+sound experience counter workshop lovely lady	pos
+treatment excellent	pos
+rat high customer service receive puncture tyre	pos
+efficiency way	pos
+far sound l see anything wrong	pos
+online application monitor fund person balance time	neg
+believe ignore since one 	neg
+prompt service especial u matatu	pos
+due delay respond online system	neg
+change payment option pleasant u access stanchat bank channel	neg
+receive communication state new change take	neg
+prompt response friendly staff	pos
+quick convenient	pos
+incessant give quality service	pos
+agent active request daily payment	neg
+incessant pleasure work nishma	pos
+thank quick service	pos
+get warranty tyre buy march	pos
+get warranty	pos
+get need auto express without much hustle	pos
+request introduction daily payment	neg
+customer request price reduce discourage potential customer	neg
+excellent reception though need improve abit time	pos
+extreme profession qualify friendly staff	pos
+ready go extra mile	pos
+amaze customerservice	pos
+improve quality tire especial pirelli	neg
+customer suggest introduction daily payment introduction product like phone	neg
+would recommend extra discount repeat customer like	pos
+get sound service autoxpress since begin use company service	pos
+agent instal refuse	neg
+battery malfunction also request daily payment	neg
+customer request daily payment	neg
+zamara great company ample deliver service client much excellence	pos
+service efficient deliver first	pos
+problem take	neg
+dispenser unit bring repair	neg
+tv malfunction one	neg
+thika team real happy	pos
+perfect	pos
+great service first visit marsabit come tyre	pos
+customer request price reduction	neg
+thank efficient	pos
+service quality though take long clear customer different excellent	neg
+wish consider give special rate client	neg
+agent quick help customer	pos
+take long day get pension fund transfer instruction effect another scheme	neg
+customer say agent honest referral customer request price reduce	neg
+excellent efficient service	pos
+incessant come back l confidence service	pos
+start limit experience zamara	neg
+new member get nice welcome	pos
+impress service customer relationship	pos
+staff friendly patient customer especial people like new car	pos
+could turn back hand	neg
+jeremy team give u excellent advice service comfortable	pos
+warm welcome work	pos
+time efficiency quality service	pos
+great experience staff	pos
+happy work do	pos
+great customer service jackie	pos
+satisfy long stand customer	pos
+quality service sound customer service	pos
+professional handle u care give	pos
+profession service average price	neg
+understand profession staff	pos
+thanx pamela sound staff	pos
+payment notification message help prepare product powerful	pos
+expert car advise free service warranty incentive	pos
+customer look forward get tv package	pos
+friendly staff competent worker sound service	pos
+already recommend customer look forward get tv package	pos
+professionalism excellent customer attention	pos
+comfortable come	pos
+customer would like price reduction	neg
+tyre stock make certain stock incessant	neg
+happy service guy	pos
+reli service across country	pos
+real excellent customer service	pos
+claim tyre handle comfortable	pos
+first time impress level professionalism display	pos
+first time buyer	pos
+efficiency quick service	pos
+like cause	pos
+thank keep	pos
+sound discount service	pos
+receptive staff quick quality service	pos
+need improve customer relation market publicity	neg
+excellent customer service fast efficient service	pos
+would recommend others	pos
+would recommend others help save future	pos
+excellent support staff	pos
+first time auto express happy service especial give report client	pos
+sound service usual love	pos
+fast service delivery quick response quotation	pos
+time favorite one stop shop	pos
+happy get	pos
+customer request introduction daily payment	neg
+agent incessant help need would like introduction daily payment	pos
+yes wonderful job	pos
+customer reffered many customer buy would like price reduce	pos
+zamara incessant quick respond need help	pos
+excellent customer service helpful friendly staff	pos
+comfortable diverse inspection excellent recommendation service provider	pos
+receive profession advise question engineer handle	pos
+clear understand product	pos
+recent issue exquisite	neg
+issue order past	neg
+food great kind check delivery time change	pos
+next time boastful order like last one emphatic call	pos
+real like Siam	pos
+fund proactive educate member appear transparent disclosure communication	pos
+look forward another	pos
+look forward another experience	pos
+serve awesome team	pos
+product work perfect request	pos
+excellent customer service fast efficient friendly	pos
+expect fast service sound job happy customer	pos
+timlyness communication	pos
+great service customer care keep	pos
+efficient service friendly staff	pos
+happy today	pos
+problem take long faulty product get repair	neg
+staff friendly ad seem enjoy job	pos
+extra discount would sound	neg
+agent charge incase troubleshoot enjoy	neg
+customer say torch faulty introduction daily payment would sound	neg
+like product much reduce price slight	pos
+problem pay tcode	neg
+like product	pos
+member last three year okay product	pos
+bite slow	neg
+make use innovation system use paybill number	neg
+also suggest price reduce	neg
+customer agent relationship sound suggest channel list sport channel	pos
+transaction fee	neg
+customer suggest price reduction tv accommodate dvd	neg
+food amaze die	pos
+quick feedback friendly staff real sound	pos
+like service	pos
+agent quick attend customer issue child improve education	pos
+incase issue agent	pos
+customer suggest introduction daily payment large power capacity battery	neg
+yet probable could improve	neg
+agent quick help customer technology issue	pos
+agent quick customer	pos
+product perfect screen clear price luxurious	pos
+incessant ready provide service request	pos
+great customer service sound discount	pos
+need extra discount regular customer like	neg
+happy everything guy	pos
+friendly expert service	pos
+thika staff congrats	pos
+first time happy	pos
+real like	pos
+food delicious	pos
+lovely relax coffee sound juice ihub	pos
+would total recommend one	pos
+great staff support	pos
+serious labor turn affect consistent service delivery	neg
+exceptional service incessant	pos
+branch fair	pos
+excellent fast comfortable inform profession staff	pos
+tyre cost rather steep	neg
+give well offer loyal customer	neg
+never dissappointed	pos
+service price would	neg
+level expertise demonstrate	pos
+nice customer service great staff	pos
+happy service offer	pos
+enjoy service staff	pos
+staff friendly service professionalism plus	pos
+happy satisfy client	pos
+like efficient sound people workshop	pos
+nice welcome staff	pos
+refer many	pos
+introduce per month payment possible hebdomadal bite hectic	neg
+impress luxurious quality customer service	pos
+informative session andrew	pos
+quality job happy visit	pos
+excellent customer service staff sound vehicle mechanics check service advice	pos
+would consider since neigbours consider sun competitor cheap azuri	neg
+agent patient customer promise make payment give date	pos
+take long time problem solve agent honor promise customer	neg
+problem take long period product repair	neg
+agent take long time sort customer issue	neg
+offer give extension validity period least month	neg
+customer suggest package accommodate dvd	neg
+staff great knowhow	pos
+wil return next week tyre	pos
+also follow employer even feedback	pos
+surprise hassle	pos
+great quick service	pos
+total experience mind blow	pos
+two lovely lady mweru betty thank much god bless	pos
+never know woman could much knowledge car	pos
+definately come back	pos
+management handle junior staff	pos
+value customer service efficient	pos
+sound work excellent servic	pos
+like way company staff relate client offer comfortable service	pos
+impress tyre damage	pos
+say philomena ndinda  provide quality service	pos
+say philomena ndinda  provide quality	pos
+excellent service friendly staff	pos
+process tire mount could little fast	neg
+sound customer service friendly staff value money	pos
+customer complain agent	neg
+withdraw policy tell take day	neg
+mean withdraw simple policy take almost month	neg
+withdraw one never want deal old mutual	neg
+satisfy excellent	pos
+agent quick respond customer problem would like additional sport channel	pos
+customer would like price reduce mode payment	neg
+part costly	neg
+agent quick respond customer problem	neg
+agent honest	pos
+please keep fire burn fire burn	pos
+package economy service sufficient	pos
+certain value money	pos
+staff awesome	pos
+nothing could well appreciate service	pos
+customer service perfect	pos
+like product much	pos
+battery price luxurious	neg
+light enhance security	pos
+agent avail respond positive	pos
+come back next time	pos
+happy ngong road	pos
+customer request remind make next payment	neg
+first time staff go way let know help select appropriate service	pos
+customer satisfactory	pos
+great fast service friendly staff	pos
+g wrong name wrong car registration	neg
+poor attention detail staff	neg
+doris pleasant confident cheerful helpful quite knowledge	pos
+would emphatic come ngong road	pos
+customer service commend	pos
+claim positive consider even warrant	pos
+bad experience one staff point	neg
+communicate deal well	pos
+sound approach sound service	pos
+staff comfortable conversant	pos
+sound quick service	pos
+reception customer service excellent	pos
+nice product range	pos
+product knowledge staff friendliness	pos
+life member autoxpress	pos
+like never interact staff receive money	neg
+happy city centre	pos
+please considern incentive	neg
+happy fit tyre like autoxpress ur tyre exellent thanx city centre	pos
+definately bring car wheel	pos
+splendid job	pos
+free wifi coffee	pos
+great  access update deposit	pos
+regular customer	pos
+fair branch wide range product service	pos
+see zamara flow world trust scheme lot	pos
+enjoyable surprise expedient service	pos
+well agent customer	pos
+professionalism agent customer	pos
+enquire long bite	neg
+sound work fast service	pos
+zamara offer online service one check benefit smart phone	pos
+satisfy product want	pos
+service efficient brenda helpful	pos
+perfect service quality product excellent personnel reception	pos
+comfortable expalined efficient	pos
+sound customer service comfortable train staff	pos
+poor communication lack update	neg
+person experience quick go extra mile research	pos
+seasonable feedback adequate response question	pos
+general happy service provide	pos
+appreciate kind	pos
+quality service profession staff	pos
+wooow sound staff happy city centre	pos
+investment sound interest rate ok	pos
+keep offer profession service offer keep come tell others	pos
+sound job do thanx pamela	pos
+job do sound fast happy team city centre	pos
+product expensive	neg
+would want communication take take alexander send	neg
+value money yet	neg
+product nice	pos
+quick n precise	pos
+customer would like price reduce	neg
+introduction daily payment	neg
+every service sound right	pos
+seasonable date annual statement	pos
+frequent offer wonderful	pos
+free suspension check	neg
+keep effeciency	pos
+like service edwin sound communication	pos
+customer service wow	pos
+informative statement receive prompt	pos
+love autoxpress service everyday nice sunday	pos
+stuff great	pos
+every time leave smile	pos
+sound service keep	pos
+customer care freindly work do short time	pos
+customer care freindly work do	pos
+autoxpress team cater identify ample problem	pos
+improve turn around time service	neg
+different rest job comfortable do	neg
+propose proper check supervise techinician	neg
+autoxpress never disappoint	pos
+recommend friend come ngong road branch	pos
+customer service exemplary	pos
+incessant happy service	pos
+love customer service	pos
+emphatic recommend customer	pos
+please consider fast turn around time	neg
+please consider fast turn around	pos
+staff remark friendly service excellent	pos
+efficient staff	pos
+take long	neg
+staff friendly ready help	pos
+sell shock last month give guarantee consider hot	neg
+go extra mile	pos
+excellent reception sound product	pos
+improve communication whenever	neg
+free service great	pos
+friendly kid engage	pos
+customer long time incessant please service	pos
+great service recommend	pos
+job comfortable do city centre	pos
+service incessant great	pos
+excellent service incessant come back	pos
+cost seem slight high	neg
+snack accompany tea	neg
+first time branch	pos
+prompt service nice staff skill knowledge	pos
+price reduce	neg
+quick turn around time sound communication staff	pos
+great experience	pos
+attendant take number promise call	neg
+excellent job staff knowledge real impress autoxpress thank	pos
+incessant pleasure auto	pos
+comfortable customer care service damaris team simple comfortable	pos
+excellent service time never issue	pos
+error data antecedent enter correct prompt statement issue	neg
+follow do without give	pos
+appreciate courtesy	pos
+make wheel alignment free customer buy piece tire	neg
+everything okay	pos
+comfortable train staff	pos
+comfortable train staff customer service woow	pos
+quite quick	pos
+lack communication	neg
+chance disappoint company	neg
+effective term	pos
+efficient seasonable	pos
+thanx team cc	pos
+price also luxurious	neg
+customer would real like get tv package contract	pos
+introduction daily payment would well	neg
+service ok ell train persell	pos
+friendly staff sound davison impend repair	pos
+congratulation auto express thank exemplary performance	pos
+attend comfortable every time serve service swift effective	pos
+great staff excellent service	pos
+need provide coffee customer	neg
+light enhance security compound	pos
+cost lower	neg
+people talk interact	pos
+package pocket friendly compare kerosene whose price escalate	pos
+score way since please	pos
+first time reception sound	pos
+expect today one stop shop	neg
+real express service friendly cost	pos
+excellent communication give honest feedback even pleasant	pos
+sound staff serve customer joy	pos
+professionalism agent rude	neg
+absolute impress staff	pos
+take long service	neg
+customer suggest could give tcode time credit	neg
+profession service sound staff	pos
+customer satisfy	pos
+amaze work skilled worker warm welcome	pos
+hotpoint service excellent	pos
+service fast reli	pos
+regular customer never dissapointed	pos
+nice staff cooperate	pos
+provide gift ramadhan	neg
+love ngong road	pos
+technician john knowledge profession	pos
+treat comfortable get free service	pos
+incessant rely auto	pos
+team patient sound thing	pos
+comfortable do keep	pos
+like everything	pos
+profession staff comfortable	pos
+singh extreme helpful	pos
+sound first time see	pos
+service garage especial person service car sound profession person	pos
+product pocket friendly compare price kerosene	pos
+first time use autoxpress much impress warm welcome	pos
+love general mathenge	pos
+agent quick antiphon issue affect	neg
+great efficient service polite waiter	pos
+fast service indeed workshop	pos
+plus cappuccino	pos
+item need stock	neg
+consider special offer	neg
+satisfy product	pos
+give bonus incentive	neg
+charge system poor	neg
+duration contract extend	neg
+comfortable customer	pos
+improve agent service	neg
+prompt attention	pos
+different service	pos
+addition need improve speed	neg
+product service	pos
+customer ample satisfy	pos
+daily payment possible	neg
+mercy comfortable passionate	pos
+price make cheap	neg
+take book alternative first come first serve basis	neg
+disadvantage luxurious price	neg
+though service bite expensive	neg
+irequest somebody leave retire retrench job	neg
+fix record time work excellent	pos
+enjoyable surprise remember within guarantee change	pos
+recommend friend since service station rival auto express kakamega	pos
+branch open recent wait long serve	neg
+branch open recent	neg
+recommend job	pos
+low price spair part like spark plug high desire	neg
+excellent fun	pos
+comfortable do job	pos
+satisfy product service	pos
+regular interaction zamara	pos
+possible reduce price	neg
+everything excellent	pos
+thank tea	pos
+location	pos
+either duration use discount different useful	neg
+please facilitate car wash service make one stop shop	neg
+thank much	pos
+happy camper right	pos
+comfortable attend service friendly	pos
+terrible experience	neg
+would say keep nc	pos
+sound staff comfortable do counter sale source air filter townace	pos
+thank city centre team	pos
+honour warranty	pos
+staff supportive honest record intact felt like someone care drive	pos
+service average sound	pos
+nyc job communication plus advance much sound service job and excellent work corruption	pos
+sound customer service friendly staff	pos
+staff welcome knowled wide check	pos
+enjoy experience	pos
+sound honest service	pos
+nice experience	pos
+early l also service garden city branch nairobi	pos
+make come two tyre	pos
+attend fast	pos
+listen customer	pos
+dissapointed since take microwave purchase shop take month repair	neg
+add workshop staff	neg
+beer overprice sauce bland	neg
+meal get order wrong address despite	neg
+customer care service handle customer comfortable	pos
+comfortable organise team	pos
+wonderful team	pos
+payment do daily basis	neg
+get know current offer	pos
+sound reception quality service	pos
+technician slow need little bite fast	neg
+happy customer soo far	pos
+plead speak bos discount	neg
+much knowledge company score average	neg
+thank zipporah incessant sort vehicle	pos
+thank guy fix tanker tyre fast	pos
+efficient guy	pos
+unit sound charge system fail	neg
+add bay efficiency	neg
+money release fast request	neg
+sound customer service reason customer	pos
+mumbai assist friendly manner incessant come back assistance	pos
+great team mombasa road	pos
+everything awesome	pos
+sound service comfortable happy mechanic plus time conscious	pos
+product work perfect	pos
+improve communication within	neg
+profession pleasant experience	pos
+sound job even worker sound talk happy	pos
+high competent agent	pos
+strong work team grind enhance	pos
+excellent customer service satisfy customer	pos
+everything unit sound strong communication	pos
+fast efficient thank	pos
+impress staff andrew detect	pos
+issue  access link	neg
+kate helpful	pos
+happy supervisor check	pos
+agent say warrant lack information	neg
+like professionalism	pos
+get value money	pos
+never disappoint service ever since	pos
+improve price	neg
+friendly worker sound price	pos
+happy customer never dissapointed	pos
+excellent service kisumu branch	pos
+great spot convenient seasonable service	pos
+love service asalways	pos
+customer service workmanship sound	pos
+first experience shop far sound	pos
+excellent consistent satisfactory service	pos
+recommend anytime	pos
+proffesional service efficiency	pos
+keep sound work serve client	pos
+organise team	pos
+staff knowledge need do	pos
+never disappoint product	pos
+trust autoxpress	pos
+vehicle ok	pos
+give excellent customer service speed	pos
+quick precise	pos
+customer satisfaction guarantee	pos
+excellent staff service	pos
+job comfortable do	pos
+thank keep word tyre	pos
+add would recommend	pos
+sound reception exemplary service	pos
+excellent customer service staff	pos
+guy great customer service	pos
+current happy	pos
+customer service excellent	pos
+coz job intact fast without waste timej	pos
+happy morng exellent	pos
+great consistency information client	pos
+think proactive enough member statement chase example	neg
+service exellent great discount	pos
+retail counter sale proactive engage customer	neg
+first time customer real impress service	pos
+thank wonderful experience	pos
+extreme impress warm reception service offer entire team	pos
+great value money	pos
+deserve attention customer	pos
+great incessant	pos
+efficient humble quality service	pos
+alignment charge bite luxurious appreciate free inspection	pos
+convenient	pos
+happy extreme fast service	pos
+offer value money	pos
+sound work environment friendly staff	pos
+excellent reception explanation	pos
+great team get	pos
+job do comfortable fast	pos
+sound customer care service incessant key	pos
+staff comfortable dress right uniform	pos
+first visit service meet expectation	pos
+serve noble staff	pos
+service efficient	pos
+friendly okay	pos
+new policy would  rate year	pos
+occasion excellent service	pos
+advise comfortable product get marylyne	pos
+extreme experience gen mathenge	pos
+everything one roof	pos
+team communication product convince date	pos
+discount return customer	neg
+excellent worker	pos
+fabulous customer care service	pos
+online system need upgrade make user friendly	neg
+issue raise	pos
+great customer service quick job	pos
+express service happy technology staff reception	pos
+thank statement	pos
+incessant place choice auto service	pos
+incessant awesome work thika team	pos
+convienient	pos
+overall humble staff great service provide	pos
+service handle without issue	pos
+second time auto press happy	pos
+fast n sound job	pos
+quick service excellent work	pos
+sound customer relationship improve price	pos
+satisfy service keep come back	pos
+satisfy service keep come	pos
+great stuff autoxpress	pos
+date birth oct yet indicate july	neg
+first time receive statement zamara	neg
+online platform create enhance prompt access ratification pension contri	pos
+consistency service continuous improve	pos
+event real awesome	pos
+exquisite short response time would great	neg
+ticket prompt open soon send email	pos
+would great	pos
+friendly staff good attitude towards service delivery	pos
+definately back	pos
+since leave faulty tyre	neg
+feel dissapointed issue fault make	neg
+claim early staff decline	neg
+incessant get serve	pos
+go extra mile meet customer need propose solution	pos
+could wide range tyre	neg
+service iko sawa n level price	pos
+impress sound service customer relation	pos
+warm reception friendly knowledge technician forget hot coffee avail wait serve	pos
+happy invest old mutual	pos
+recommend autoxpress customer	pos
+people concern answer	neg
+dont know responsible account	neg
+l love	pos
+incessant enjoy service	pos
+everything ok need fast	pos
+great customer service warm reception	pos
+first happy get statement	pos
+far sound still improve customer satisfaction	pos
+wonderful team know employ	pos
+quality communication mean quality staff value money	pos
+online service	pos
+communication excellent	pos
+excellent customer service fast	pos
+staff member antiphon question member	pos
+improve value money increase interest	neg
+get help whenever	pos
+since change brand update forthcoming furthermore online access long avail	neg
+complain far	pos
+seasonable service comfortable inform staff smooth hot cup hot chocolate	pos
+jovial switch	pos
+fantastic lot	pos
+website show something different	neg
+incessant receive prompt response excellent support	pos
+understand positivism attitude	pos
+feel least customer like would receive	neg
+appreciate staff	pos
+wonderful customer	pos
+service extreme	pos
+call inform cheque would deposit monday	neg
+call april tell payment process	neg
+due early experience colleague hesitant recommend madison others	neg
+kudos branch	pos
+fast workmanship workshop	pos
+sound reli service	pos
+fantastic job	pos
+quality team work	pos
+fast service autoxpress	pos
+incessant serve comfortable even book	pos
+responsivenss customer need quick resolution challenge	pos
+experience work zamara sound overall	pos
+organize regular member	neg
+happy  contri	pos
+ok service	pos
+real appreciate availability cup	pos
+expec first time	pos
+coffee great	pos
+bundle theft auto renew unlimited bundle ahead expiry thereby	neg
+also give ample time response supply documentation	pos
+overall programme add value startup perspective	pos
+staff commit ready	pos
+prompt responsiveness staff call	pos
+happy service provide emphatic come back	pos
+do great job	pos
+staff friendly ready assist	pos
+also receive warm welcome reception	pos
+wonderful service though	pos
+guy fantastic	pos
+great staff member	pos
+quick survice availabily genuine part sound host ability	pos
+expensive different service staff okay	neg
+cost item bite pricey	neg
+first time service okay	pos
+proactive	pos
+sound service sound customer service	pos
+refreshment	neg
+duration take resolve	pos
+response email request take almost hour	neg
+lovely great	pos
+assist u many time make claim comfortable keep u inform go cover industry	pos
+ur kisumu team prompt friendly	pos
+get want thank team arrange	pos
+look forward engage	pos
+quality service offer	pos
+price afford although would prefer well	pos
+efficient sound quality service product	pos
+would come back	pos
+price expensive	neg
+confident service	pos
+quick fast customer service	pos
+bite expensive bring	neg
+answer question honest hence feel	pos
+polite friendly staff	pos
+amaze staff member	pos
+customer service excellent continue create sound pr client	pos
+reputation base recommendation	pos
+assurance sale	pos
+fast efficient team workshop	pos
+customer care service great	pos
+excellent staff	pos
+sound service product sound communication skill though price lower little bite	pos
+impress tyre	pos
+introduce discount	neg
+comment issue	neg
+staff knowledge	pos
+serve lot respect brenda chemutai	pos
+price luxurious	neg
+impress first time approach	pos
+much interaction zamara	neg
+price friendly	pos
+sound service cooperation nice staff	pos
+bi expensive balance	neg
+thank sunday support	pos
+communication	neg
+mechanic know	pos
+bite expensive compare others	neg
+cooperative staff work quality sound	pos
+fast friendly staff	pos
+fair neat workshop sound quality service	pos
+sound staff service quality	pos
+glad come	pos
+great service reliability	pos
+incessant pleasant service	pos
+staff give technology advise cool work environment friendly staff	pos
+service ok	pos
+excellent customer service technology expertise suspension system	pos
+comfortable organize team	pos
+feel fitting shock spring free alignment without	neg
+sound efficient service	neg
+would prefer communication	neg
+sound customer service sound staff	pos
+wait long time get battery replace	pos
+lovely people care customer outstanding	pos
+time queue long	neg
+lucky day walk away sound bar system	pos
+give special discount repeat customer	neg
+complaint although age capture accurate	neg
+fo example request merge previouse employer contri	neg
+score poor reply mail call	neg
+communication quality service reception	pos
+please pleasant communication staff profession service	pos
+excellence customer care service	pos
+get comfortable staff	pos
+fast n convienient	pos
+give afford rat	neg
+regular customer enjoy service l get	pos
+experience never let	pos
+promote excellent service form guy keep	pos
+ann demonstrate great ability listen understand essence	pos
+sound troubleshoot procedure	pos
+approach handle client term need offer way solve matter	pos
+price fair	pos
+speed sound team morale	pos
+find everything ok	pos
+customer care tip top	pos
+service okay employeesbwere nice fast	pos
+sound communication customer care	pos
+puncture repair sort fast thank guy	pos
+sound price friendly staff	pos
+sound job excellent customer service	pos
+staff excellent commit work	pos
+excellent job incessant come back	pos
+open branch country wide job do satisfaction	pos
+service expensive	neg
+quality customer service	pos
+enjoy first service thank andrew	pos
+profession stress free service	pos
+team friendly	pos
+try reduce price commodity litte bite	neg
+sound client service n advice staff valu	pos
+comfort place wait	pos
+emphatic say get value money	pos
+increase variety	neg
+customer care service care unique	pos
+come several time visit	pos
+responsiveness attitude work customer relation	pos
+wonderful service sound customer service	pos
+kind get work office number	neg
+proper customer service branch	pos
+imprest organization thank	pos
+sound customer service staff	pos
+sound experience staff keep sound work	pos
+would appreciate free wheel balance	neg
+nice hospitality comfortable inform staff	pos
+due efficient service give respective happy	pos
+staff helpful profession	pos
+like new wrap chicken harisa	neg
+technician know stuff	pos
+work do prompt	pos
+bite expensive	neg
+friendly concern	pos
+great staff lady welcome  see exact do vehicle	pos
+great friendly service	pos
+offer well discount exist customer order attract new one	neg
+like everything auto	pos
+great reception staff	pos
+service sound quick helpful general happy tyre insurance	pos
+quick service prompt profession	pos
+would appreciate consistency	neg
+iam happy customer	pos
+efficient work	pos
+great communication go offer quick service	pos
+take long get tyre sister	neg
+one stop need	neg
+everything excellent recommend	pos
+nice friendly staff efficient	pos
+incessant avail	pos
+issue think	neg
+emphatic value money	pos
+accurate diagnosis excellent customer relation	pos
+improve availability part	neg
+quality advice also give	pos
+sound supply stock soft find convenient	pos
+price ok	pos
+staff courteous car service within short time	pos
+friendly helpful staff	pos
+free breakfast lunch	neg
+lucky day mercer	pos
+perfection reception excellence work	pos
+original product though price slight luxurious	neg
+customer care service quite impressive	pos
+like efficiency service	pos
+service okay	pos
+already happy	pos
+keep thank much	pos
+wish could get free tyre	neg
+time client receive comfortable	pos
+find assistance	pos
+eric helpful	pos
+excellent service round	pos
+excellent staff friendly profession	pos
+need energize battery	neg
+staff esspecialy mary helpful conversant explaing	pos
+eric extreme helpful continue	pos
+quality service sound customer care	pos
+text communication stop ago	neg
+exquisite thank	pos
+quick response	pos
+excellent service love	pos
+l love energy	pos
+sound real love customer service counter team workshop team	pos
+well discount tyre would	neg
+excellent support	pos
+kudos team auto	pos
+new customer order son love spicy chicken wing	pos
+real love banana cake	pos
+real love warm chicken salad thank customer care team insist try	pos
+food sound customer service perfect	pos
+sound customer service client relation	pos
+great service far	pos
+incessant enjoy	pos
+quick accurate info knowledge staff	pos
+happy customer sound service	pos
+workshop staff beatrice wonderful job	pos
+happy client	pos
+eric incessant profession	pos
+sound customer service transparency	pos
+courteous staff	pos
+convenient location	pos
+excellent staff will understand customer concern	pos
+aim regular customer car service work far sound	pos
+everything excellence	pos
+issue far one exception change bupa cigna	pos
+true outstanding certain great asset	pos
+service business year country rare find someone courteous efficient like eric	pos
+awkward one many question answer comfortable office seasonable way	pos
+price though bite luxurious give economy may forgive due taxation	neg
+keep goodwork	pos
+soft submit claim	pos
+general happy	pos
+awesome staff great service	pos
+service excellent time take imrove	pos
+comfortable serve high train expertise	pos
+mix tyre pay poor alignment require rework two week	neg
+incessant well service	pos
+love co service	pos
+maybe continue engage review improve	neg
+customer service experience perfect	pos
+autoexpress place come auto sevices	pos
+staff profession seasonable attend task	pos
+garage discount reduce price almost customer walk incentive bring client	neg
+price reduction would make happy	neg
+love auto	pos
+service awesome n car service auto	pos
+love service auto	pos
+love service auto express keep come back	pos
+speed slow	neg
+impress customer service	pos
+helpful staff ready go	pos
+service great customer care awesome	pos
+service great	pos
+every time get service bay someone attend prompt	pos
+nice good service	pos
+comfortable experience	pos
+efficiency accuracy	pos
+battery offer encourage	pos
+sound hospitality ready serve efficient	pos
+every accommodative staff customer orriented	pos
+personnel friendly	pos
+service sound also customer relation ok	pos
+excellent job sound service	pos
+excellent service warranty guarantee reliabllity	pos
+tend find cost replacement item	neg
+repeat customer thus numerous interaction sound	pos
+service excellent take long serve	pos
+sound job seasonable delivery	pos
+would emphatic come back	pos
+sound customer service skilled staff incessant smile moral	pos
+would emphatic come	pos
+great service customer relation	pos
+also admire seriousness employee	pos
+get value money professional attend	pos
+proffesionalism customer satisfaction	pos
+like champion oil reception sound	pos
+far sound ever since first visit branch happy	pos
+keep guy	pos
+friendly staff happy resolve issue advise foresee	pos
+great reception lady counter	pos
+first time though meet need	neg
+excellent service reliability important keep word	pos
+service fast efficient staff friendly knowledge sale service commend	pos
+wait total day partial source forbisnt real fun	neg
+excellent service sound customer service	pos
+nice atmosphere knowledge mechanic make easy understand	pos
+get sound service autoxpress alignment purchase sound quality tyre	pos
+incessant happy everything team	pos
+simple opinion long time excellent customer	neg
+lovely ambiance	pos
+impress autoexpress hood	pos
+excellent customer relation sound quality work	pos
+awesome customer service sharon nd group	pos
+service fast	pos
+customer service board	pos
+happy total process	pos
+cash discount would make happy	neg
+george team wonderful	pos
+moderate fast	pos
+mechanic efficient	pos
+friendly commit	pos
+everything else okay apart delivery time	neg
+fair washroom impress	pos
+poor response zamara staff	neg
+prefer come alternative go mechanic	pos
+staff comfortable train	pos
+guard friendly	pos
+simple	pos
+already comfort	pos
+service orderly seasonable	pos
+display professionalism	pos
+efficient knowledge guy	pos
+beyond happy service	pos
+staff efficient mechanization superb	pos
+fantastic customer service technology team	pos
+great benchmark service centre like waiyaki way	pos
+excellent service though slight expensive	pos
+welcome great frank amaze	pos
+registration issue	neg
+excellent service delivery fast accurate	pos
+improve seat cover incorporate sponge side stock	neg
+amaze level technology happy	pos
+thrill service	pos
+consistency delivery	pos
+long time customer keep come back	pos
+sound job great mechanic	pos
+price improve customer well	neg
+consider free oil	neg
+shreya reply initial query quick	pos
+like free inspection	pos
+alignment take little long expect	neg
+sound job nice coffee	pos
+thanksgood coffee	pos
+excellent response keep	pos
+talk friend come	pos
+love service june keep	pos
+give star service year visit	pos
+friendly welcome	pos
+give discount repeat customer	neg
+excellent team	pos
+comfortable auto care great customer service professionalism team outstanding	pos
+awesome customer service	pos
+response time email short issue address seasonable fashion	pos
+field replacement unit part	neg
+happy satisfy service render	pos
+last saw team high qualify individual	pos
+technology team marvelous understand	pos
+welcome team great get information	pos
+customer relationship technician excellent	pos
+excellent service incessant come back zion	pos
+fast guy	pos
+keep spirit	pos
+excellent job	pos
+enjoy value customer	pos
+quite unique work	pos
+delight third service receive	pos
+never experience	pos
+everything service ok think anything need improve keep	pos
+service ok cold get cup tea happy staff friendly	pos
+promise heaven deliver space	neg
+whenever ask information	pos
+customer happy service come treat comfortable	pos
+incessant happy keep come	pos
+simple client couple year even credit account	pos
+improve speed	neg
+give full report work do	neg
+happy serve hop get value since first time	pos
+product variety avail	pos
+staff friendly give al information require	pos
+keep george	pos
+glad get discount	pos
+improve communication progress	neg
+service ok everything else	pos
+luxurious level technology plus service	pos
+excellent customer service skillls	pos
+floor staff know job comfortable	pos
+recommend include	neg
+incessant sound service every time	pos
+value money service fair price	pos
+proactive sale personnel give	pos
+excellent customer service staff profession ready provide guidance need	pos
+serve excellent way compare organization render service general happy eervuces	pos
+speed issue handle sound feedback	pos
+new customer real like service	pos
+excellent service delivery fast perfect	pos
+technician professioanall	pos
+efficiency make happy	pos
+would glad refer auto	pos
+incessant service vehicle autoxpress	pos
+would recommend wait area	neg
+sound customer experience competitive price product	pos
+general impress ambience	pos
+efficient service westlands	pos
+dedicate staff	pos
+director rude arrogant know speak email customer	neg
+sound customer approach service delivery	pos
+nice experience shop	pos
+far love	pos
+great customer care	pos
+meet brain first time seem helpful kine person	pos
+satisfy service renderd recommend	pos
+excellent staff handle customer	pos
+even though wait query ask	pos
+great customer service keep come back	pos
+consider mechanic ability fix minor mechanics issue	neg
+honda insight suspension avail stock	neg
+price bite luxurious reduce price oil	neg
+price fair reduce accommodate customer	pos
+warm welcome	pos
+amaze staff quality service review price dowm	pos
+value money service okay staff sound	pos
+get additional advice	pos
+comprehensive service n one stop shop	pos
+first time service content offer	pos
+comfortable place auto	pos
+great job	pos
+staff experience go beyond normal routine	pos
+perfec servicest friendly	pos
+price ofspares consider give	neg
+fast service profession staff	pos
+far sound go comfortable	pos
+balance nozzle free though	neg
+customer service perfect service quick excellent	pos
+delay issue	neg
+customer care service top notch explanation various option	pos
+great service incessant	pos
+amaze service	pos
+incessant get pay flexible	pos
+make team	pos
+staff commit	pos
+zamara real improve communication	neg
+like group fast	pos
+inform staff awesome customer service	pos
+great food	pos
+consider free alignment tyre	neg
+profession friendly staff	pos
+quick troubleshoot give advice	pos
+constant issue every single month one line another	neg
+online bank transaction stop work	neg
+incessant comfortable service town	pos
+auto express employee fast	pos
+keep congratulation	pos
+autoxpress incessant happy customer service excellent	pos
+staff excellent friendly efficient	pos
+employee sound job fast	pos
+ask statement call write email till todate	neg
+price expensive review competitive	neg
+would recommend	pos
+customer touch communication quality service excellent	pos
+representative nairobi office john nyagah excellent helpful antiphon	pos
+side warranty ur certain whether stick cot cozbur stubborn warrant	neg
+staff excellent friendly efficient claim deal quick	pos
+excellent communication efficient friendly	pos
+quick turn around	pos
+change fuel filter	neg
+excellent staff incessant seem side spend time	pos
+sound comfort friendly service	pos
+excellent customer service luxurious quality product	pos
+supper efficient	pos
+zamara effective	pos
+find unreason charge transaction fee	neg
+staff friendly seem know work comfortable	pos
+improve customer experience make	neg
+efficiency efficient service delivery within le time	pos
+delivery fee luxurious	neg
+food service great	pos
+cashew wrap yummy lime ginger flirt	pos
+comfortable impress service provide	pos
+thank great service customer service support	pos
+high content delivery response time	pos
+excellent service sound customer care	pos
+need improve customer service especial give customer feedback	neg
+staff ever helpful courteous take time explain everything need know	pos
+thank audrey	pos
+year deal insurance never confidence broke look join jwseagon	pos
+interaction zamara fair new far sound	pos
+thank team	pos
+believe one great firm east africa real	pos
+contact martin philomena incessant give excellent service	neg
+get pleasant service every service	pos
+way comfortable attend thank	pos
+staff also musical_instrument help make decision	pos
+save work life rip benefit would strong recommend someone else	pos
+staff friendly sound customer care knowledge	pos
+service orient business staff play major role ensure customer satisfaction maintain	pos
+service orient business	pos
+love menu check delivery time	neg
+love menu	pos
+satiesfied customer care sound approach sound staff dedicate work customer	pos
+sound staff wil come back	pos
+make hapier frequent communication new development advise regard investiments	neg
+everything seamless far complaint	pos
+request variety rim selection purpose	neg
+proper setup friendly staff	pos
+informative staff friendly	pos
+repeat	pos
+old client like food much	pos
+affordability fast reli delay	pos
+great value provide startup africa	pos
+staff pleasant profession	pos
+engagement topic issue	neg
+bad experience	neg
+trust zamara group	pos
+courteous efficient comprehensive alert problem area may require address	pos
+zamara excellent recommend zamara person seek company pension plan	pos
+great team westlands	pos
+website many item troublesome get want	neg
+carrot cake ordinary	neg
+fast service delivery ample automate	pos
+incessant come back please service	pos
+great service would recommend anyone	pos
+note consistency since start deal	pos
+friendly staff work excellent	pos
+prompt service whenever require update status	pos
+awesome experience zamara	pos
+excellent recommendation since	pos
+also serve coffee wait tyre fix	pos
+knee stock variety tyre	neg
+guarantee	pos
+staff friendly service quick fast	pos
+proffesional way thing	pos
+sound job happy customer every time visit	pos
+sound job happy customer	pos
+communicate frequent	neg
+favorite branch sound staff nice location	pos
+nice people wait	pos
+provide tyre variety	neg
+exellent job citycentre	pos
+receive commend service zamara humanity relation approach point	neg
+great assistance whenever need arise	pos
+poor return poor customer service	neg
+thanx team sound service citycentre happy	pos
+happy team citycentre pam kudos	pos
+must say thank	pos
+discount customer	neg
+th free puncture	pos
+sound reception customer care	pos
+keep god	pos
+informative sale	pos
+attention detail professionalism sound customer atttention	pos
+process slow	neg
+hellen sound lady	pos
+pls also introduce award employee month	neg
+please add another line wheel alignment	neg
+excellent wonderful	pos
+sound staff exellent work thank pamela	pos
+exellent work	pos
+excellent service provide	pos
+excellent service provide customer satisfaction	pos
+sound job team customer service kudos	pos
+price abit luxurious	neg
+real wish would finalize let	neg
+warm receive call address concern	pos
+love place thats ive customer long	pos
+quality communication also average	neg
+value money friend complain money earn interest	neg
+gratefull honor claim	pos
+face issue prefer precise communication general answer	neg
+face issue prefer	neg
+patient customer	pos
+atlas wheel alignment balance reduce rate becaise check	pos
+helpful knowledge staff	pos
+customer orient service provider ready offer solution	pos
+citycentre perfect job customer	pos
+citycentre perfect job customer service excellent	pos
+sound job pamela happy come	pos
+syaff also take every step service	pos
+happy client keep sound work	pos
+short repayment period claim improve communication	neg
+humanity interaction awhile know product	neg
+overall response time sound improvement area	pos
+customer satisfaction availability part	pos
+like wide range tyre	pos
+long lead time improve	neg
+emphatic come back shop	pos
+emphatic come	pos
+every friendly stafff	pos
+employee also information prompt avail	pos
+nice tea	pos
+comfortable place get autocare service	pos
+quick turnaround time	pos
+extreme sound service competent get tyre without problem	pos
+discount memembers	neg
+get sound advice leonard free inspection	pos
+avail read material	neg
+repeat answer different people organization	neg
+fast service appreciate call back tyre requisition	pos
+take blender take around three week repair receive blender	neg
+happy servuce especial manager guy service	pos
+quite friendly staff thank honour warranty withou hassle	pos
+qualify competent profession technians	pos
+handle client comfortable	pos
+effective service wifi lot connection issue	pos
+get comfortable price compere buy tyre last	pos
+availability part	neg
+great staff sound stuff	pos
+first time unfavorable need	neg
+sound staff facility would appreciate would extend work time	pos
+different great assistance efficient come submit monthly payment account	pos
+like passion commitment team	pos
+sound technology advise staff knowledge informative	pos
+fact proper understand say give confidence work	pos
+lovely service	pos
+zamara skilled knowlege people analytical dedicate	pos
+improve space serve many customer	neg
+quality service incessant	pos
+perfect job nice coffe	pos
+sound communication sound service staff	pos
+take one month plus amend name cover note	neg
+improve tat pension fund	neg
+supportive staff	pos
+first time autoxpress	pos
+wiper get half price	neg
+new plan awesome staff immaculate low fare	pos
+quality staff	pos
+nice evironment	pos
+like guy	pos
+reception amaze efficient	pos
+come alignment repeat	pos
+although bite expensive	neg
+awesome	pos
+great welcome attend sound customer service care excellent	pos
+keep maintain	pos
+friendly profession	pos
+engagement	pos
+take long time	neg
+outlet limit compare provider	neg
+sound efficient service	pos
+discipline workshop	pos
+zamara provide round excellent service value customer	pos
+fair price nad sound customer service	pos
+thank free puncture repaire	pos
+excellent customer focus knowledge supportive staff	pos
+discount certain service	neg
+staff delight	pos
+unmet promise call day submit repair	neg
+unmet promise	neg
+call pick service centre	neg
+appreciate entire service	pos
+consider discount alignment	neg
+excellent service thats go else autoxpress	pos
+fast efficient thanx team warm welcome sale lady pam bt tea	pos
+thank warm	pos
+score excellent since start deal zamara	pos
+nice job donethankyou	pos
+would make u happy well feedback mechanism also	neg
+general happy excellent service effective feedback customer care	pos
+confident service use close one	pos
+quite pleasant experience youf shop	pos
+bad experience try	neg
+informative staff incessant will help	pos
+customer experience especial ruin	neg
+excellent service delivery	pos
+thank pamela ur warm welcome god job workshop team	pos
+please would define recommend guy	pos
+sound efficient service waste tym	pos
+misdirect park vehicle askari	neg
+cheap transfer cash account client bank rather make u charge stand charge	pos
+mark accord team	pos
+new member havent interact much zamara	neg
+sound staff nice location	pos
+rat excellence professionalism	pos
+sound customer service happy guy	pos
+like energizer battery buy last year serve comfortable	pos
+great team thank	pos
+least buy four tire alignment free	neg
+sale girl know job comfortable	pos
+well coordination workshop sale would	pos
+happy service autoxpress long time	pos
+adjust price	neg
+thankful coffee	pos
+short time sound advice quality tyre replace	pos
+employee customer	pos
+regular customer incessant come back	pos
+quick response quotation	pos
+long wait time queue reception	neg
+efficient sound customer appreciation support	pos
+efficiency service	pos
+glad reception recieved	pos
+repair take total month real	neg
+time call would ask send sm	neg
+toss one person another without	neg
+happy service customer care also sound	pos
+consider pocket friendly tyre alignment charge	neg
+also like brown macho guy welcome customer	pos
+addition incessant smart garage fair keep	pos
+sound service sound process follow excellent customer care	pos
+speed service well	pos
+since receive offer autoexpress option excellent part guddos	pos
+sound quality fast service	pos
+auto express occasional tend little bite	neg
+thank free puncture	pos
+unavailability spare	neg
+high qualify staff	pos
+glad make comfortable well option	pos
+customer care topmatch	pos
+never experience disappointment	pos
+great customer service nanyuki branch	pos
+discipline	pos
+efficient quick service	pos
+quality information give apreciate	pos
+courtesy workerswilling guide	pos
+plus team	pos
+one stop shop work magic single girl	pos
+bring vehicle excellent service	pos
+communication average process explain	neg
+hope come	pos
+great staff entire co	pos
+time economy price bite reduction	neg
+genuine stuff	pos
+fantastic crew	pos
+regular prefer autox press compare others	pos
+efficient proffesional friendly	pos
+take much time question answer philip shela	pos
+second visit please service	pos
+initial problem installation take week sort	neg
+knowledge staff	pos
+check price service	neg
+happy servife staff care customer	pos
+happy servife	pos
+improve discount	neg
+excellent work customer service	pos
+ok satisfy	pos
+real take month still count	neg
+hot point comfortable quality thing plus	pos
+quick efficient service warm welcome reception	pos
+improve communication	neg
+mechanic slow	neg
+offer service amaze	pos
+skilled worker	pos
+would rat high give discount	neg
+incessant comfortable serve	pos
+quick efficient	pos
+quality efficient service	pos
+quick service repeat customer	pos
+keep thevexcellent customer experience	pos
+pleasant staff	pos
+improve space speed	neg
+happy customer incessant back	pos
+consistent luxurious quality efficient service	pos
+excellent service since start	pos
+sound service dedicate staff	pos
+appreciate comfortable job do	pos
+keep nice job	pos
+continue update every stage	pos
+free alignment purchase complete set tyre	neg
+incessant come get car do	pos
+service sound price fair sound staff	pos
+incessant serve fast possible	pos
+serve fast	pos
+sound service consider price reduction	pos
+could get discount	neg
+wiper fit fast	pos
+incessant like love service keep	pos
+extend discount non accessory	neg
+guranttee tyre real	pos
+comfortable receive serve nice coffee	pos
+regular customer know talk	pos
+fast work keen service	pos
+respective n amuse service	pos
+sound service first time l get quality service refreshment wait area	pos
+trustworthy employee	pos
+friendly customer service quality service general	pos
+fast service well product knowledge	pos
+quality service fair environment	pos
+enjoy service staff worker	pos
+add discount product	neg
+engineer advise client actual condition vehicle provide	pos
+nice environment	pos
+offer quality service encourage	neg
+happy friendly staff quality service world class	pos
+estimate wait time customer comm	neg
+attitude	pos
+great staff	pos
+reli service	pos
+sound staff would emphatic come back	pos
+cost repair	neg
+staff comfortable	pos
+use email monthly	neg
+give well discount repeat customer	neg
+never disappoint wit every	pos
+sound customer service quality product	pos
+first time happy theservices	pos
+love service	pos
+offer customer complementary gift	neg
+efficient staff profession	pos
+poor quality	neg
+visit branch various service render splendid perfect	pos
+emphatic recommend	pos
+wait long	neg
+please improve	neg
+continue comfortable service offer	pos
+incessant great customer service sound advice preventive maintenance	pos
+reception staff excellent	pos
+staff extreme friendly	pos
+value money need review	neg
+staff will go extra mile	pos
+incessant excellent service incessant leave happy	pos
+place choice	pos
+small thing note communicate time u call find	neg
+recommend anyone need	pos
+efficient ready	pos
+quite courteous staff	pos
+personalize service kind	neg
+simple world class	pos
+excellent staff outstanding service offer	pos
+communicate client channel sm email helpful	pos
+even visit office still get know suppose know advise fit	pos
+excellent customer service nanyuki branch	pos
+think finance unwavering access information investment criticism do	neg
+customer centrism partial	neg
+introduce reward point	neg
+poor service especial	neg
+enhance tat little bite	neg
+recommend others	pos
+nice program great staff clear communication	pos
+organisation review fee product make competative	neg
+auto express staff technician sound people also serve people excellent	pos
+staff ready	pos
+check	neg
+fast accurate comfortable organize fair	pos
+disappointment especial payment staff	neg
+see value money	pos
+focus	neg
+congrats monthly notification receive monthly contribution employer	pos
+year ago indicate statement email	neg
+second issue postage	neg
+recommendation send statement probable quarterly month	neg
+incessant update client something arise friendly staff	pos
+recommend anybody uap never pay u service render kisumu	neg
+sound customer service  get education loan real need school fee	pos
+include mpesa payment	neg
+receive update upcoming benefit policy holder	neg
+real appreciate customer service value customer	pos
+make believe investment money	neg
+enquire tell policy change month	neg
+try get update	neg
+visit head office december yet get response despite get	neg
+also receive monthly statement reconciliation	neg
+office lot bureacratic process esp	neg
+payment process refund dv claim payment	neg
+apply surrender policy july still unresolved todate propose pay le contri	neg
+assist satisfactory member	pos
+apply withdraw investment respective effect	neg
+continue treat u client comfortable truthful	pos
+do comfortable competition improve customer service return	pos
+pay amount statement arrive turn owe money	neg
+communication channel need improve	neg
+room improvement quality	neg
+people liar concern explain product rude come serve	neg
+monthly text message receipt monies sound	pos
+statement send client without ask	neg
+increase value money due depreciation money	neg
+sale service terrible	neg
+staff Paul maza useless come	neg
+general sound service staff communication value money	pos
+give enough information late find unit trust	neg
+keep touch personal touch make feel	neg
+one ever adviced push end period get something	neg
+educate client ample sign	neg
+communicate finance position frequent need	neg
+service far excellent	pos
+calk request stop prompt	neg
+staff real friendly	pos
+sound communication honest proffesional	pos
+time need call get require information need chznge	neg
+old mutual staff lie potential customer	neg
+fast support quick response	neg
+get regular update staff	pos
+either remind eventual inconveniencly	neg
+force visit branch get	neg
+let client know	neg
+lack proper advice	neg
+staff make impossible	neg
+five year service excellent compare company	pos
+discount increase	neg
+simple want system	neg
+poor corporation culture lazy little man disdain rich man	neg
+system seem reactionary stop gap measure	neg
+take long get	neg
+enjoy customer service provide branch	pos
+thank great staff service comnunication	pos
+issue raise sort real time	pos
+recommendation try call client direct alternative write message	neg
+time saw sanlam staff fill form	pos
+never get	neg
+far service offer uap old mutual kenya excellent	pos
+would cost get cash	neg
+glad get warranty	pos
+want high interest rate	neg
+comfortable far	pos
+kind helpful lady	pos
+muriithi helpful	pos
+far	pos
+love orient life	pos
+slow send	neg
+back forth ticket email take time quick conversation	neg
+receive comfortable car service life branch incessant keep come back	pos
+knowledge staff sound product	pos
+give discount	neg
+wish wheel alignment cheap would incessant bring	pos
+incessant comfortable take	pos
+desperate resolve without delay	neg
+concern long take	neg
+early response problem crown	neg
+reduce price shock	neg
+staff excellent customer service	pos
+staff friendly	pos
+service nice compare branch	pos
+customer since never see failure sound	pos
+branch	neg
+excellent service nanyuki branch	pos
+recent experience	pos
+spacious	pos
+sound service incessant	pos
+nice coffee shop	pos
+comfortable service ever experience would emphatic recommend anyone	pos
+satisfy customer excellent service nanyuki branch	pos
+incessant serve prompt	pos
+prompt reply query	pos
+force communicate head office fb	neg
+person attention discount receive	pos
+everything go smooth staff	pos
+friendly staff product come warranty long last	pos
+need company expand	neg
+staff extreme friendly mechanic quick explain problem	pos
+place comfortable	pos
+since join oldmutual incessant gottten	pos
+excellent service nanyuki town	pos
+get part sometimes quite slow	neg
+wish speed well well way communicate issue	neg
+automate ticket system acknowledge	pos
+support department still care especial face unique challenge	neg
+need refund	neg
+sound speed service	pos
+helpful staff	pos
+great service customer experience	pos
+guy amaze team	pos
+excellent service reception	pos
+offer discount next time	neg
+add office furniture	neg
+sound deal quality product pocket friendly 	pos
+service offer excellent meet expectation would hesitate come back	pos
+service offer	pos
+competent comfortable organize	pos
+neat area	pos
+autocross bae love bit	pos
+send dispenser second time problem	neg
+service offer hospitality	pos
+friendly staff soft deal	pos
+real appreciate inspection feedback knowledge	pos
+look forward	pos
+look forward come	pos
+love showroom	pos
+hot point service incessant comfortable	pos
+awesome team back	pos
+sound custoer service incessant come back good	pos
+welcome staff	pos
+happy customer love job	pos
+incessant difficult get etr receipt zuku	neg
+thank service	pos
+clueless technician	neg
+chase telkom month	neg
+excellent service look round din set	pos
+atmosphere welcome	pos
+sound product luxurious price	neg
+get variety color	pos
+sound staff attitude quality furniture real sound never disappoint	pos
+comfortable stock store quality electron dedicate staff keep	pos
+look forward next sale	pos
+excellent service staff thank	pos
+discount would make feel	neg
+charge refund despite fault	neg
+call	neg
+sound product luxurious price january	pos
+real happy return	pos
+price luxurious variety	neg
+happy shop hot point	pos
+happy shop hit point	pos
+experience	pos
+quality furniture deal week great would want email alert	pos
+excellent service keep	pos
+discount	pos
+quality item	pos
+entire customer experience journey excellent	pos
+shop go smooth sound customer service delivery communication	pos
+real value money	pos
+customer service improve	neg
+icea pension scheme year service level continue deteriorate	neg
+staff friendly attentive	pos
+coffee	pos
+serve comfortable friendly profession standard	pos
+consider give guard free buy late appliance	neg
+gentle welcome	pos
+regrettable hotpoint product buy past poor quality	neg
+customer service point	pos
+promise come	pos
+sound service customer care	pos
+nice customer service	pos
+mobile app nicnow wow	pos
+outstanding perfomance appliance staff	pos
+product luxurious quality performance	pos
+excellent way	pos
+great environment happy team	pos
+staff friendly profession also give comfortable rate town	pos
+real appreciate discount ritu	pos
+helpful honest customer support	pos
+customer service point quality good keep	pos
+great service nothing add	pos
+service perfect	pos
+love everything	pos
+quality furniture sound offer	pos
+receive excellent service susan	pos
+service amaze	pos
+great bank gt	pos
+get prompt quality service	pos
+staff polite friendly helpful	pos
+staff friendly knowledge	pos
+helpful staff equip enough office furniture	pos
+enjoy efficient bank service	pos
+amaze team	pos
+efficient staff reli	pos
+assure value money	pos
+staff friendly helpful	pos
+staff nice dress look	pos
+employee helpful	pos
+lose money jubilee due poor communication	neg
+lose money jubilee due poor communication staff	neg
+love place	pos
+understand customer need provide	pos
+customer service point general service also exemptional	pos
+great interaction	pos
+customer friendly great service	pos
+friendly employee	pos
+guarantee money safe get assistance need incase anything	pos
+great full store	pos
+mean say term value one money	pos
+would like deliberate	neg
+apart sound please stock spring mazda mpv	neg
+collect bring back next day fan still problem	neg
+discount price provide adequate sit	neg
+approach right away sale person 	pos
+comfortable do guy sound customer service	pos
+friendly courteous knowledge staff	pos
+consider give discount	neg
+fast efficient service	pos
+educate people comfortable	neg
+customer service great	pos
+staff friendly like team work customer care particulary jeniffer serve	pos
+service brilliant	pos
+service afford l like inspection partial help one budget	pos
+fair work environment consider	pos
+quality product sound service	pos
+keep come back	pos
+sale staff sell product floor moderate sound know talk	pos
+satisfy service thank	pos
+friendly work environment profession staff	pos
+sound service delivery excellent communication reception	pos
+time one stop shop	pos
+would happy bridgestone tire becky want free fuel	neg
+customer service great great appreciate	pos
+perhaps visible online	neg
+thank fast service enjoy serve month december	pos
+service sound recommend others	pos
+need improve service delivery time	neg
+receive value dollar	pos
+great staff grind	pos
+sound customer care service value money receive	pos
+fast reli impress service	pos
+thank kisumu branch	pos
+tyre replacement still cant believe happen	pos
+tyre guarantee comfortable	pos
+excellent reception hospit service	pos
+high impress bybtge sound reception counter guy work car	pos
+love professionalism	pos
+tahira nadeem fabulous go extra mile care customer sound job	pos
+quality excellent service	pos
+guarantee real work inhave	pos
+staff quite welcome	pos
+sound friendly service save day bart go bonkus	pos
+system never disappoint	pos
+prompt work	pos
+friendly healpful staff	pos
+serve prompt receive advise maintenancecof	pos
+impress hospitality	pos
+customer long time	neg
+love coffee	pos
+fast sound service	pos
+happy client autoxpress	pos
+invite environment sound customer service friendly staff	pos
+emphatic come back	pos
+shall emphatic come	pos
+price change quality service way boastful thumb team care customer	pos
+happy facility profession staff	pos
+fit ferodo brake pad kisumu friendly staff kisumu	pos
+fast efficient reli	pos
+sound serve fast service knowledge staff	pos
+satisfy customer service	pos
+one stop shop car need	pos
+impress new christmas offer	pos
+speed	pos
+great welcome staff price explain service carry	pos
+consider discount	neg
+prompt attention need	pos
+sound customer service professional	pos
+reli tyreshop wide range product	pos
+spacious comfortable organize staff	pos
+recent ask network breakdown area	pos
+sound service quality product	pos
+comfortable serve also save time	pos
+efficient friendly staff	pos
+price fair product	pos
+restaurant park space car wash child playground nearby would give value	neg
+fast efficient reli service	pos
+quick reli effecient	pos
+like autoxpress	pos
+prefer quality	pos
+person experience also competitor area	pos
+service sound staff treat u comfortable ca ask since enough	pos
+seasonable service	pos
+service provider long time impress	pos
+saturday long queue	neg
+free inspection excellent	pos
+comfortable service sound product	pos
+great service genus	pos
+efficiency friendly staff	pos
+offer especial new brand introduce	pos
+cool work environment comfortable train staff	pos
+staff smart especial dress comfortable brand	pos
+could stock part common car	neg
+qualify staff sale technology guy comfortable train	pos
+staff welcome know address need	pos
+friendly staff quick service	pos
+service quick staff friendly	pos
+incessant feel home	pos
+customer relation coffee free inspection professionalism	pos
+friendly coperative staff	pos
+person touch genuine part	pos
+customer service comfortable	pos
+fast efficient	pos
+technician improve speed	neg
+get excellent service	pos
+variety tyre sound quality	pos
+give offer client	neg
+reception sound welcome	pos
+incessant	pos
+fast excellent service include free mechanics check advice	pos
+great customer care service	pos
+sound reception take average short time	neg
+happy customer service great	pos
+receive comfortable amnd product sound	pos
+wait offer	neg
+excellent service courteous staff especial sale people	pos
+buy tyre think great value	pos
+allow room discount	neg
+quality service sound although price	pos
+friendly competent staff sound marketer	pos
+sound staff sound service delivery	pos
+comfortable serve sound communication	pos
+price still make afford base economy scale enjoy industry	neg
+comfortable equip train staff	pos
+customer service ok	pos
+get item week recent	neg
+do happy staff friendly	pos
+fast service sound communication skill	pos
+fast service sound communication	pos
+enjoy ac honesty	pos
+reception workshop staff friendly profession	pos
+five year work branch l	pos
+excellent staff proper communication skill	pos
+customer service sell skill employee	pos
+add discount also service	neg
+every time come time incessant look	pos
+wait around time bite long	neg
+grace keep reassure despite fact take long	neg
+god service nanyuki brach visit	pos
+recent sale also extreme plus	pos
+staff courteous	pos
+excellent service do	pos
+puncture repair wait	pos
+fast service friendly staff damaris nathan jacktone vitalis	pos
+service great everything excellent second visit	pos
+incessant use service since	pos
+everything simple	pos
+quality product	pos
+service give excellent	pos
+service courtesy accord stay luxurious class	pos
+cost product rest exquisite	neg
+customer service amaze	pos
+limit spend outpatient	neg
+aar expensive	neg
+go early week buy afew thing computer system	neg
+kind check department rectify since busy	neg
+give hand receipt	neg
+regular customer since opned tge nyali naivas	pos
+staff know stuff comfortable	pos
+incessant receive excellent service value money	pos
+diagnose problem	pos
+fair environment	pos
+speed efficiency service purpose management time	pos
+organise staff teamwork one	pos
+payment process take long	neg
+thank cup chocolate	pos
+wow nice price service	pos
+continue visit branch	pos
+one stop shop need	pos
+incessant one stop shop	pos
+professionalism comfortable train staff fair work	pos
+serve comfortable accept speed	pos
+gratefull service thank	pos
+fast reli service	pos
+regular customer thus recommendation different would come back	pos
+staff friendly inform	pos
+incessant recommend time	pos
+autoxpress incessant choice	pos
+many time already complaint regret far	pos
+quality service original spar	pos
+excellent service informative	pos
+though first visit impress	pos
+u care u	pos
+give comfortable service	pos
+receive service year still come back	pos
+staff comfortable inform  share	pos
+comfortable service excellent time	pos
+great work	pos
+flexible price comfortable train staff	pos
+customer satisfaction key satisfy	pos
+happy motivate staff	pos
+helpful courteous	pos
+friendly knowleg mechanic	pos
+appreciate reception ken susan v helpful	pos
+friendly staff atmosphere include ammenities	pos
+great service	pos
+great service quality product	pos
+quality stuff	pos
+awesome incessant	pos
+kind reward loyal customer give free service time	pos
+stand queue	neg
+excellent inform team	pos
+slow teller collection store	neg
+long process que buy	neg
+check sore slow	neg
+arrogant sound sale	neg
+measurement paint seem accurate leave several want buy	neg
+seem little expensive thani expect	neg
+every friendly	pos
+excellent service	pos
+staff seem quite comfortable inform	pos
+friendly service	pos
+service comfortable n pocket	pos
+service comfortable n pocket friendly	pos
+client use ngong rd branch frequent	pos
+everything ok	pos
+service first class	pos
+customer service beat place know	pos
+satisfy excellent job do	pos
+issue	pos
+time call back though promise do	neg
+keep service level incessant like	pos
+like da arrange furniture choice plus	pos
+value money profession approach	pos
+staff go mile	pos
+great staff excellent customer service delivery	pos
+service general great part comparative afford	pos
+since buy car service noproblem far experience	pos
+kind provide alternative variety oil filter accessory increase customer	neg
+customer enjoy service lot	pos
+efficient time management	pos
+comfortable one stop shop town	pos
+break base expensive	neg
+competent inform mechanic	pos
+discount service effect	neg
+boastful discount need	neg
+bob alignment abit costly	neg
+poor service limuru branch repeat service do	neg
+flexible employee	pos
+comfortable service quality product	pos
+compare garage awesome	pos
+staff cold	neg
+enjoy service coffee comfortable	pos
+wheel alignmentvis extreme expensive	neg
+variety oil	neg
+sound competitive price	pos
+short line smile quick service	pos
+service compare others far much well	pos
+complaint amaze offer	pos
+senior staff need improve	neg
+team work note	pos
+general great service	pos
+great customer service	pos
+even coffee well	pos
+since come naivasha thing change service great price comfortable	pos
+first time happy customer	pos
+brand great	pos
+keep	pos
+great service come	pos
+service excellent	pos
+friendly profession staff	pos
+offer save cash	pos
+mumbi exceptional courteous	pos
+happy customer complain	pos
+service receive far luxurious standard	pos
+interact long time every day prove sound	pos
+staff appear overwhelm slow payment process	neg
+awesome service staff comfortable train	pos
+great service excellent quality work	pos
+warm hospitality friendly staff	pos
+profession staff	pos
+proffesinal staff	pos
+attempt create online portal	neg
+website load slow half item	neg
+online shop difficult	neg
+discount loyalty point someone redeem	neg
+offensive kind look	neg
+outstanding service receive rita several occasion	pos
+take cheap	neg
+manager duty either helpless care even l try	neg
+take care customer feel even remain unwavering	neg
+need increase staff	neg
+payment system pick long	neg
+cashier apologetic keep u wait	neg
+staff store helpful	pos
+also find one floor manager bite unfriendly	neg
+take long require much information beyond	neg
+till system awful	neg
+staff sweet	neg
+enough staff sale	pos
+great product service people	pos
+need variety item	neg
+keep get message	neg
+week late kcb resolve promise	neg
+like mombasa	pos
+aar slow	neg
+like fair environment aar staff sound	pos
+would happy could remove copy fee aar facility	neg
+dont think get value money aar	neg
+delay get new card office could get	neg
+especial unfavorable wait period long	neg
+cc team would assist contact provider person whenever patient face challanges	pos
+near branch ruaka service incessant snail pace wait staff call attend	neg
+far sound keep hardened work excellent service client claim management	pos
+quick turn around time quote new installation	pos
+aar insurance service great	pos
+installment payment boost	pos
+happy customer beatriice iirangi	pos
+kcb care call instruct repeat withdrawal request call back minute hour past call	neg
+safaricom staff clue come bill	pos
+excellent sale service	pos
+sound clear communication would happen	pos
+value money	pos
+nic one	pos
+informative expert opinion staff	pos
+lynne sound interpersonal skill	pos
+comfortable serve communication	pos
+apart debit card already fall apart within month usage	neg
+nevertheless least apply get replacement	neg
+benefice deny care	neg
+disappoint customer	neg
+provider client feel great uap client dedication	pos
+opinion solid insurance company	pos
+company informative nowadays	pos
+agent one comfortable comfortable industry would	pos
+customer care desk also prompt deal customer problem inquiry	pos
+rude unbecoming behaviour	neg
+also issue	neg
+a little advice one pay non refund deposit	neg
+tuskys outlet mall excellent	pos
+excellent give customer comfortable service	pos
+claim tell sign fresh cancellation exist cover	neg
+grow together since	pos
+take work day fix criticism problem	neg
+slow net	neg
+poor customer service	neg
+quality product everything	pos
+promise fix downtime	neg
+customer care poor	neg
+shop strategy place like service offer	pos
+like red tape force one go branch thing do phone	neg
+enjoyable surprise secure efficient use	pos
+would recommend expand	pos
+difficult get hold	neg
+secondly boastful issue card	neg
+happy service render	pos
+interest rate luxurious	neg
+real love halloumi harissa wrap	pos
+happy friendly menu	pos
+would nice introduce githeri	neg
+real love	pos
+increase variety item menu would amaze	neg
+real love brand superb	pos
+real love zucchini	pos
+excellent service great customer service	pos
+increase vegeterain option	neg
+issue sort year line	neg
+sale staff hospit u explain product detail	pos
+overcharge bill un resolve matter month end	neg
+since year least see positivism change unless change	pos
+great response time get u need clarify query	pos
+quick mobile service	pos
+queue quick mobile service friendly staff	pos
+quick mobile deposit service afford	pos
+impressive mobile deposit service	pos
+fast mobile bank service	pos
+quick mobile bank service deposit transaction	pos
+slow service	neg
+never let need help	pos
+agent give correct information	pos
+way lazy staff arrogant specically loan clerk	neg
+ordinary ample park spacious shop mall	pos
+loyalty card also one kind	pos
+incessant love nakumatt	pos
+makeks happy	pos
+happy customer experience	pos
+look forward receive use fridge	pos
+receive great service	pos
+champion service	pos
+efficient service	pos
+quick solve issue	pos
+excellent service even network poor	pos
+staff follow end	pos
+simple excellent staff member	pos
+remark service level	pos
+staff friendly prompt respond query	pos
+wait new item menu	neg
+use receive message special menu	neg
+improve delivery time add item create wide variety	neg
+incessant receive comfortable	pos
+frustrate thing zuku customer lack information	neg
+near branch access lten migori far	pos
+never another bank	pos
+great bank	pos
+business loan tat okay	pos
+update raise issue	neg
+excellent customer service	pos
+mean charge plain theft	neg
+safe convenient ease use	pos
+incessant attend comfortable	pos
+customer serve fast	pos
+imprest happy	pos
+problem many staff remind payment date	neg
+food fresh tasty	pos
+also get update every company	pos
+service offer excellent anytime enter office	pos
+kind add vegatarian option menu	neg
+kind increase vegatarian option improve delivery time	neg
+simple define direct forward	pos
+nice quiet bank	pos
+excellent bank	pos
+personal wait information regard	neg
+poor communication institution client	neg
+drain kenyan hardened earn money direct rate loan	neg
+still percentage rate luxurious compare bank	neg
+service satisfactory	pos
+comfortable receive staff	pos
+honesty integrity u client	pos
+keep promise pay	pos
+network coverage average comfortable data speed	neg
+treat one garbage	neg
+customer service reliance superb lack well word	pos
+love	pos
+real love dtb much send bos deposit cash	pos
+comfortable bank far account holder bank	pos
+year bussiness grow	pos
+never solve complaint	neg
+say forward issue relevant team	neg
+would happy agent branch near home preferably kyasioni market	neg
+happy first time	pos
+friendly staff detail information customer quick disbursement loan	pos
+never call dear	neg
+hate even mention name	neg
+one staff member service exceptional	pos
+activate acct must go	neg
+transparency loan never seem reduce instant huge arrears spot	neg
+poor communication value customer	neg
+fast convince	pos
+give wrong information	neg
+direct rate method expensive loan	neg
+happy service	pos
+friendly n business support	pos
+friendly business	pos
+compare quite comfortable quality bank give u well return money	pos
+service okey	pos
+customer long time never disappoint service	pos
+interact comfortable staff	pos
+staff employ need train	neg
+honest never see	pos
+never dissapointed need	pos
+would like improvement	neg
+bad customer care experience ever	neg
+poor handle client	neg
+helpful term	pos
+incessant first choice	pos
+discount need agree manager empower	neg
+although mobile app service sound like fact	pos
+communication quite effective	pos
+quality	pos
+service quite fast efficient	pos
+great journey	pos
+thank great customer service	pos
+excellent service serve	pos
+display nice thank much	pos
+receive comfortable price	pos
+customer service way excellent	pos
+service excellent every thing ok	pos
+quality service	pos
+friendly staff	pos
+service prompt	pos
+poor branch network short bank hour make inconvenient bank work	neg
+excellent service enjoy year	pos
+friendly staff ready will assist tirelesy	pos
+everytime visit staff member helpful friendly include lady manager	pos
+goodly	pos
+sound	pos
+golden	pos
+glory	pos
+joyful	pos
+gladly	pos
+gifted	pos
+genius	pos
+genial	pos
+galore	pos
+gains	pos
+gained	pos
+gaily	pos
+gaiety	pos
+frugal	pos
+frolic	pos
+fresh	pos
+freed	pos
+lucky	pos
+formid	pos
+loving	pos
+fondly	pos
+fluent	pos
+flashy	pos
+firmer	pos
+finest	pos
+finer	pos
+finely	pos
+fiery	pos
+fervor	pos
+fervid	pos
+feisty	pos
+favour	pos
+favor	pos
+fancy	pos
+famous	pos
+famed	pos
+faith	pos
+fairly	pos
+exult	pos
+extoll	pos
+extol	pos
+excite	pos
+excel	pos
+exceed	pos
+exalt	pos
+evenly	pos
+entice	pos
+enrich	pos
+enrapt	pos
+enjoys	pos
+enjoy	pos
+endear	pos
+elite	pos
+elated	pos
+elate	pos
+edify	pos
+easing	pos
+easier	pos
+eases	pos
+eased	pos
+eager	pos
+divine	pos
+defeat	pos
+decent	pos
+dazzle	pos
+daring	pos
+cushy	pos
+crisp	pos
+comfy	pos
+comely	pos
+cohere	pos
+clever	pos
+clears	pos
+clear	pos
+classy	pos
+cheery	pos
+cheer	pos
+charm	pos
+champ	pos
+catchy	pos
+brisk	pos
+bright	pos
+bravo	pos
+brave	pos
+brainy	pos
+bonny	pos
+bloom	pos
+blithe	pos
+bliss	pos
+bless	pos
+beckon	pos
+beauty	pos
+awesome	pos
+awards	pos
+award	pos
+avidly	pos
+attune	pos
+assure	pos
+aspire	pos
+ardor	pos
+ardent	pos
+angel	pos
+amuse	pos
+amply	pos
+ample	pos
+amity	pos
+amazes	pos
+amazed	pos
+amaze	pos
+agile	pos
+afford	pos
+affirm	pos
+adroit	pos
+adorer	pos
+adored	pos
+adore	pos
+admire	pos
+acumen	pos
+abound	pos
+ethical	pos
+erudite	pos
+envious	pos
+entrust	pos
+enticed	pos
+enthuse	pos
+enthral	pos
+ennoble	pos
+enliven	pos
+enjoyed	pos
+endorse	pos
+enchant	pos
+empower	pos
+eminent	pos
+elevate	pos
+elegant	pos
+winning	pos
+winners	pos
+welcome	pos
+wealthy	pos
+victory	pos
+vibrant	pos
+valiant	pos
+useable	pos
+upscale	pos
+unfazed	pos
+unbound	pos
+twinkly	pos
+trumpet	pos
+triumph	pos
+thrills	pos
+thrifty	pos
+talents	pos
+sweetly	pos
+sweeten	pos
+surreal	pos
+surpass	pos
+supreme	pos
+success	pos
+succeed	pos
+sublime	pos
+suavely	pos
+stylish	pos
+stellar	pos
+staunch	pos
+stately	pos
+sparkle	pos
+soundly	pos
+soulful	pos
+smartly	pos
+smarter	pos
+simpler	pos
+sharper	pos
+savings	pos
+satisfy	pos
+saintly	pos
+roomier	pos
+rightly	pos
+zippy	pos
+zenith	pos
+wowing	pos
+wowed	pos
+worthy	pos
+worth	pos
+wonder	pos
+witty	pos
+wisely	pos
+wisdom	pos
+winner	pos
+wieldy	pos
+whoooa	pos
+whooa	pos
+warmly	pos
+warmer	pos
+vouch	pos
+vivid	pos
+virtue	pos
+valor	pos
+useful	pos
+usable	pos
+uplift	pos
+upbeat	pos
+unity	pos
+trusty	pos
+trophy	pos
+trendy	pos
+thrive	pos
+thrill	pos
+thrift	pos
+tender	pos
+tempt	pos
+sweet	pos
+swanky	pos
+swank	pos
+superb	pos
+supple	pos
+superb	pos
+super	pos
+succes	pos
+suave	pos
+sturdy	pos
+strong	pos
+steady	pos
+stable	pos
+sporty	pos
+speedy	pos
+soothe	pos
+solid	pos
+softer	pos
+snazzy	pos
+snappy	pos
+smooth	pos
+smiles	pos
+slick	pos
+sleek	pos
+shiny	pos
+shine	pos
+sharp	pos
+serene	pos
+secure	pos
+scenic	pos
+savvy	pos
+savior	pos
+saver	pos
+salute	pos
+saint	pos
+sagely	pos
+safely	pos
+roomy	pos
+robust	pos
+right	pos
+richly	pos
+richer	pos
+revive	pos
+revere	pos
+revel	pos
+renown	pos
+relish	pos
+neg	pos
+regal	pos
+ready	pos
+rapid	pos
+purify	pos
+proves	pos
+proven	pos
+prize	pos
+pretty	pos
+praise	pos
+poised	pos
+poise	pos
+poetic	pos
+plush	pos
+pluses	pos
+peppy	pos
+pepped	pos
+peace	pos
+pardon	pos
+pamper	pos
+outwit	pos
+outdo	pos
+openly	pos
+oasis	pos
+nobly	pos
+noble	pos
+nimble	pos
+nifty	pos
+nicest	pos
+nicer	pos
+nicely	pos
+neatly	pos
+modest	pos
+modern	pos
+mighty	pos
+merry	pos
+merit	pos
+mercy	pos
+mature	pos
+master	pos
+marvel	pos
+magic	pos
+luxury	pos
+luster	pos
+lucid	pos
+loves	pos
+lovely	pos
+loved	pos
+lively	pos
+liking	pos
+likes	pos
+liked	pos
+lawful	pos
+lavish	pos
+kindly	pos
+keenly	pos
+justly	pos
+joyous	pos
+jovial	pos
+jolly	pos
+ideal	pos
+humour	pos
+humor	pos
+humane	pos
+hooray	pos
+honor	pos
+homage	pos
+heros	pos
+heroic	pos
+helped	pos
+heaven	pos
+hardy	pos
+happy	pos
+handy	pos
+gutsy	pos
+gusto	pos
+great	pos
+grand	pos
+grace	pos
+goood	pos
+excels	pos
